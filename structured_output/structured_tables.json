@@ -1,0 +1,1502 @@
+[
+  {
+    "table_id": "table_0000",
+    "page_no": 1,
+    "bbox": {
+      "l": 129.51107788085938,
+      "t": 500.1304016113281,
+      "r": 482.1394958496094,
+      "b": 150.9801025390625,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "",
+    "num_rows": 7,
+    "num_cols": 2,
+    "rows": [
+      [
+        "Accessibility",
+        "The provision in a plot or a building or a facility or any part thereof that can be approached, entered and used without assistance by persons with temporary or permanent physical limitations."
+      ],
+      [
+        "Accessibility Route",
+        "A continuous unobstructed path that starts from the entry and shall continue through all accessible elements and spaces within a plot and buildings or facilities thereof up to the exit termination."
+      ],
+      [
+        "Accessible",
+        "The term accessible or adaptable shall be used as a prefix for spaces or features which are designed for persons having physical limitation; such as accessible toilet, accessible kitchen, accessible lift, and so on."
+      ],
+      [
+        "Adaptable",
+        "See ACCESSIBLE"
+      ],
+      [
+        "Area Planning Authority",
+        "A government or semi-government agency or a local body which has been legally designated to formulate land use or plans of the area under their jurisdiction."
+      ],
+      [
+        "Assembly",
+        "In a building or a portion thereof used for gathering of 50 or more persons for deliberation, worship, reading, entertainment, eating, drinking, awaiting transportation, or similar uses not limited to these; or used as a special amusement building, regardless of occupant load."
+      ],
+      [
+        "Atrium",
+        "A large volume space within a multistoried building having series of floor openings or corridors or similar elements in and around and floors are connected from there and series of openings or a glazing on roof or a portion thereof constructed with glazing and having a minimum two stories high. The word Atria or Atriums are the plural form of Atrium."
+      ]
+    ]
+  },
+  {
+    "table_id": "table_0001",
+    "page_no": 2,
+    "bbox": {
+      "l": 128.55783081054688,
+      "t": 690.2938690185547,
+      "r": 484.7710876464844,
+      "b": 156.604736328125,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "",
+    "num_rows": 11,
+    "num_cols": 2,
+    "rows": [
+      [
+        "Balcony",
+        "A covered and hanging platform at a height of minimum 2.286 m from the plinth level of a building and having access from any floor level and which is laterally open to outer air by three sides up to 2.06 min height and edges are protected with guards. Within an interior space, a balcony is a portion which are positioned sidewise as similar as Mezzanine."
+      ],
+      [
+        "Baluster",
+        "Single vertical member of a guardrail or a Handrail or a member of both which shall be complied with the provisions of this Code."
+      ],
+      [
+        "Balustrade",
+        "Plural form of BALUSTER."
+      ],
+      [
+        "Barrier",
+        "A wall or a partition or a floor slab or a ceiling within a building which confines and protects flow of smoke and fire from the exposed side of the barrier. The fire rating of barriers shall be complied with the provisions of this Code."
+      ],
+      [
+        "Basement",
+        "A floor of a building or a portion thereof which is situated as a whole or partially at depth of minimum 50 percent of ceiling height below formation level shall be called as a basement."
+      ],
+      [
+        "Building Line",
+        "The peripheral lines of a building mass or volume up to which the plinth area or any floor area may be lawfully extended within a plot."
+      ],
+      [
+        "Carriageway",
+        "A path including over bridge or bridge which is open to the outer air and may or may not be covered or roofed or an underpass, design and designated for vehicles only."
+      ],
+      [
+        "Ceiling Height",
+        "Height measured from the top of finished surface of floor level up to the bottom of roof or ceiling or suspended or false ceiling level or Beam drops. In case of multistoried building, Vertical distance in between two slabs from which deduction shall be made for any suspended or false ceiling or Beam drops. For slope or pitch ceiling or roof, the minimum value shall be the ceiling height."
+      ],
+      [
+        "Common Space Condition",
+        "See NON-SEPARATED SPACE CONDITION"
+      ],
+      [
+        "Control Area",
+        "A space or a room within a building enclosed by barriers with the fire rated walls, floor and ceiling, where the quantity of hazardous material shall not be exceeded the maximum allowable quantity per control area for storing, displaying, handling, dispensing or using as per provisions of this Code."
+      ],
+      [
+        "Detached Occupancy",
+        "A building separated by distance in a same plot to accommodate different type of occupancies shall be termed as Detached Occupancy."
+      ]
+    ]
+  },
+  {
+    "table_id": "table_0002",
+    "page_no": 3,
+    "bbox": {
+      "l": 129.07504272460938,
+      "t": 703.3083267211914,
+      "r": 485.9868469238281,
+      "b": 144.4669189453125,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "",
+    "num_rows": 11,
+    "num_cols": 2,
+    "rows": [
+      [
+        "Development Authority",
+        "A government or semi-government agency or a local body which has been legally designated to carry out and/or control any works of land development of an area having jurisdiction."
+      ],
+      [
+        "Far (Floor Area Ratio)",
+        "FAR is a ratio between the area of a plot and the sum of floor areas of building or buildings are erected or intended to be erected thereof. In the buildings, there may have some specific and calculated floor areas which shall be treated as bonus or exempted from the total floor area calculation and such areas shall be specified by the authorities having jurisdiction."
+      ],
+      [
+        "Fire",
+        "An uncontrolled fire which poses threat to safety of life or property or both."
+      ],
+      [
+        "Fire Separation Distance",
+        "A minimum distance which to be maintained between potential sources and/or between structures for fire safety. In case of differences between building setback and the required minimum fire separation distance measurement; the higher value shall be implied."
+      ],
+      [
+        "Flood",
+        "A Land or a plot normally dry but submerges or drowns as whole or partially by over flown water from any source."
+      ],
+      [
+        "Flood Level",
+        "A measurement of height from an existing ground level or from top level of river water of an area or a locality recorded in a Flood Hazard Map by the authorities having jurisdiction."
+      ],
+      [
+        "Flood Prone Area",
+        "At least once in a year a dry ground of an area or a plot or a portion thereof flooded at a height of 1m or more shall be designated as a Flood Prone Area."
+      ],
+      [
+        "Floor Height",
+        "In a multistoried building, floor height shall be measured from the top of finished surface of the two successive floor slabs and the measurement of the top most floor shall be from the top of finished surface of the floor slab and the top of the finished roof, in case of the slope roof, measurement shall be taken up to pick of that slope."
+      ],
+      [
+        "Frontage",
+        "Irrespective of the entry provision to a plot, full or partial length of any sides of a plot which are abutted to roads or streets shall be designated as frontage."
+      ],
+      [
+        "Formation Level",
+        "Finished ground level of a plot. For hilly areas formation levels shall be the gradient of the plot surface."
+      ],
+      [
+        "Gallery",
+        "A special type of seating arrangement where each and every row or tier of seats are successively elevated to provide a clear view to audiences or spectators within and around a playground or outdoor or indoor stadium or within an auditorium or in a hall."
+      ]
+    ]
+  },
+  {
+    "table_id": "table_0003",
+    "page_no": 4,
+    "bbox": {
+      "l": 128.9230194091797,
+      "t": 692.0591430664062,
+      "r": 484.4386901855469,
+      "b": 151.6712646484375,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "",
+    "num_rows": 10,
+    "num_cols": 2,
+    "rows": [
+      [
+        "Guard",
+        "A vertical protective barrier erected up to a height along exposed edges of stairways, balconies and similar areas."
+      ],
+      [
+        "Head Room Clearance",
+        "A vertical distance measured from the top of finished floor level up to the bottom of ceiling or lowest roof level or bottom of beam drop or bottom of any hanging element within a space. In case of a stairway, a vertical distance measured from the bottom surface of flight or ceiling or beam drop to any outer edge point of a tread below and for the landings ceiling height measurement system shall be adopted to determine head room clearance."
+      ],
+      [
+        "Helistop",
+        "A designated area on ground or on water or on a portion of a building for helicopter landing or takeoff without servicing, repairing and refueling facilities."
+      ],
+      [
+        "High Rise Building",
+        "Any building which is more than 10-storey or 33 m high from reference datum. Building appurtenances like overhead water tank, machine room, communication tower etc. will not be considered in determining the height."
+      ],
+      [
+        "Lighting Shaft",
+        "A space within a building which is fully enclosed by all sides and shall be open to the sky to provide daylight to adjacent interiors and less than the dimensions that stipulated for minimum closed or internal courts of corresponding to the building heights."
+      ],
+      [
+        "Loft",
+        "An intermediate space in-between a floor or a ceiling and under a pitch or a slope roof of a building."
+      ],
+      [
+        "Mandatory Open Space",
+        "The spaces within a plot which shall remain unpaved with or without vegetation to allow water penetration and uncovered up to the sky from formation level of the building. No underground or above ground construction is allowed in such spaces."
+      ],
+      [
+        "Mezzanine Floor",
+        "Within one space where more than one floor exists, the floor at the lowest level shall be designated as main floor and each Intermediate floor is limited to an area which is not more than one third of the main floor under one roof or one ceiling, thus gives two or more useable floor levels. These types of intermediate floors shall be designated as mezzanine floors. Mezzanine floor may be as gallery or flat floor type and which also includes interior balcony."
+      ],
+      [
+        "Mixed Occupancy",
+        "When two or more occupancies are amalgamated in a building shall be termed as Mixed Occupancy."
+      ],
+      [
+        "Non Separated Space Condition",
+        "Walls or partitions between compartments, rooms, spaces or areas within a building or part of a building which are not separated by an approved fire rated barrier walls or partitions shall be designated as non-separated space condition or effective undivided single space."
+      ]
+    ]
+  },
+  {
+    "table_id": "table_0004",
+    "page_no": 5,
+    "bbox": {
+      "l": 129.02719116210938,
+      "t": 703.7254257202148,
+      "r": 485.74432373046875,
+      "b": 146.63360595703125,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "",
+    "num_rows": 13,
+    "num_cols": 2,
+    "rows": [
+      [
+        "Openings",
+        "Apertures or holes in any wall of a building that allow air to flow through and which are designed as open."
+      ],
+      [
+        "Opening, Vertical",
+        "An opening through a floor or roof of a building."
+      ],
+      [
+        "Open Space",
+        "Open space within a plot includes all spaces other than spaces covered by the Maximum Ground Coverage (MGC)."
+      ],
+      [
+        "Plinth",
+        "Bases of the building and the elements that negotiate with the ground."
+      ],
+      [
+        "Plinth Level",
+        "Height of a covered finished floor which is just above the formation level and measured from the formation level up to the top of that finished floor."
+      ],
+      [
+        "Plinth Area",
+        "The elements from the building bases which are exposed above the formation level to form a covered floor area by joining the peripheral points of the elements which are intersected finished floor plane at the height of plinth level shall be designated as Plinth Area."
+      ],
+      [
+        "Plot",
+        "A scheduled piece or parcel of land which is classified and restricted to its intended use."
+      ],
+      [
+        "Ramp",
+        "A sloping walkway which is steeper than 1 in 20 but not steeper than 1 in 8 and shall have guard and handrail."
+      ],
+      [
+        "Ramp, Accessibility",
+        "A sloping walkway not steeper than 1 in 12."
+      ],
+      [
+        "Ramped Driveway",
+        "Ramped Driveways are inclined floors that provide access to vehicles between two levels. Ramped walkway when provided side by side of a ramped driveway shall be separated by safety guard rails and curbs. A sloping driveway or Ramped Driveway steeper than 1 in 8 shall not be credited as a component of means of exit."
+      ],
+      [
+        "Ramp Gradient",
+        "Ramp gradient refers to the ratio of the inclination of a ramp (height by length ratio) measured along the center line of the ramp."
+      ],
+      [
+        "Road Level",
+        "The road level means top surface at the center point of the road width which is used for site entry and shall be considered as the reference point for measuring height or depth of any development."
+      ],
+      [
+        "Roof",
+        "Weather exposed and uncovered surface of the topmost or the terminal ceiling of a building which may be horizontal or pitched or may have slopes shall be treated as the roof of a building."
+      ]
+    ]
+  },
+  {
+    "table_id": "table_0005",
+    "page_no": 6,
+    "bbox": {
+      "l": 128.11378479003906,
+      "t": 700.671875,
+      "r": 485.2519226074219,
+      "b": 145.85748291015625,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "",
+    "num_rows": 11,
+    "num_cols": 2,
+    "rows": [
+      [
+        "Separated Occupancy",
+        "A building or a portion thereof separated by barriers with wall or ceiling slab that into two or more parts to accommodate different type of occupancies in different parts."
+      ],
+      [
+        "Separate Space Condition",
+        "Rooms, spaces or areas within a building when separated by approved barrier wall."
+      ],
+      [
+        "Separation Wall",
+        "This is a peripheral wall of a building or a building which shall be divided into two or more or a common wall between two buildings to control spreading of fire as per provisions of this Code."
+      ],
+      [
+        "Site",
+        "See PLOT"
+      ],
+      [
+        "Smoke Draft Barrier",
+        "A vertical panel dropped from the ceiling of a building or portion thereof to protect and control the movement of smoke draft during fire. The construction of such smoke draft barriers shall be complied with the provisions of this Code."
+      ],
+      [
+        "Stage",
+        "An elevated platform which is designed or used for presentation of plays or lectures or other entertainments in front an assembly of spectators or audiences."
+      ],
+      [
+        "Stage, Interior",
+        "An elevated platform within a building which is designed or used for presentation of plays or lectures or other entertainment in front an assembly of spectators or audiences."
+      ],
+      [
+        "Stage, Legitimate",
+        "Ceiling Height of a stage from the top surface of the platform is 15.24 mor more shall be designated as a legitimate stage."
+      ],
+      [
+        "Storage Density",
+        "A storage or display of solid or liquid merchandises shall not be exceeded 976 kg/m 2 or 814 L/m 2 respectively and shall be limited to the exempted quantity of an actually occupied net floor area. Maximum height of display or storing of merchandises shall not be exceeded 1829 mm or 2438 mm respectively. Allowable Height and Quantity may be less depending on the total area and the ceiling height of a store or a display."
+      ],
+      [
+        "Street Or Road",
+        "An open to outer air and unobstructed space having required width and used by the public as pedestrian or walkway, or animal or vehicular movement or any combination of these for the purpose of access to a plot or plots and is connected with the national public transportation system other than railway track shall be designated as street or road which may or may not be paved."
+      ],
+      [
+        "Street Or Road Width",
+        "The width of any street or road shall be measured form any plot to its opposite or face to face plot distance. For the determination of a road width, measurements shall be taken up to the connection of the national public transportation system other than railway track from any plot and the least width shall be the road width."
+      ]
+    ]
+  },
+  {
+    "table_id": "table_0006",
+    "page_no": 7,
+    "bbox": {
+      "l": 128.052734375,
+      "t": 704.5937042236328,
+      "r": 484.97869873046875,
+      "b": 146.29541015625,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "",
+    "num_rows": 10,
+    "num_cols": 2,
+    "rows": [
+      [
+        "Street Floor Level",
+        "A story or floor level of a building which is accessible at the main entrance of a building from the street or from the outside at ground level and the floor shall not be more than three risers above or below the grade level."
+      ],
+      [
+        "Structural Frame",
+        "All members or elements such as columns, girders, beams, trusses and spandrels which forms a frame and have direct connections with bearing and transferring as an integral and essential elements for the stability of a building or a structure as a whole."
+      ],
+      [
+        "Surge Prone Area",
+        "Expected occurrence of a surge or wave of water may flow above 1 mor higher from the formation level."
+      ],
+      [
+        "Tall Structure",
+        "A building used for human occupancy located more than 80m high from the center of the adjacent road level or from lowest level of the fire department vehicle access."
+      ],
+      [
+        "Terrace",
+        "A paved surface not steeper than 1 in 20 and adjacent to a building which is connected by a stairway or a walking ramp or at the same level of any floor below the roof level of a building and at least one side of that area is exposed to the weather and having the guards and open to the sky."
+      ],
+      [
+        "Universal Accessibility",
+        "See ACCESSIBILITY"
+      ],
+      [
+        "Unprotected",
+        "The element that shall have no prerequisites of fire protection rating."
+      ],
+      [
+        "Ventilation Shaft, Natural",
+        "A space sidewise enclosed but open to sky used to provide ventilation as inlet and/or outlet to adjacent interiors of dimensions less than that stipulated for internal courts of corresponding to building heights."
+      ],
+      [
+        "Verandah",
+        "Portions of a building at any level which have ceiling or roof and at least one side open up to 2.13 m height to the outside air and have guards as per provisions of this Code."
+      ],
+      [
+        "Walkup Building",
+        "A multi storied building which does not have any mechanical means of vertical circulation other than stairway shall be designated as a walkup building and the maximum height of the walkup building shall be as per provision of this Code or as approved by the authority having jurisdiction."
+      ]
+    ]
+  },
+  {
+    "table_id": "table_0007",
+    "page_no": 8,
+    "bbox": {
+      "l": 125.17042541503906,
+      "t": 383.6919250488281,
+      "r": 486.3032531738281,
+      "b": 162.14288330078125,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "Table 3.1.1: Summary of Occupancy Classification",
+    "num_rows": 9,
+    "num_cols": 4,
+    "rows": [
+      [
+        "Occupancy Type",
+        "Subdivision",
+        "Nature of Use or Occupancy",
+        "Fire Index*"
+      ],
+      [
+        "A: Residential",
+        "A1",
+        "Single family dwelling",
+        "1"
+      ],
+      [
+        "",
+        "A2",
+        "Two families dwelling",
+        "1"
+      ],
+      [
+        "",
+        "A3",
+        "Flats or apartments",
+        "1"
+      ],
+      [
+        "",
+        "A4",
+        "Mess, boarding houses, dormitories and hostels",
+        "1"
+      ],
+      [
+        "",
+        "A5",
+        "Hotels and lodging houses",
+        "1"
+      ],
+      [
+        "B: Educational Facilities",
+        "B1",
+        "Educational facilities up to higher secondary levels",
+        "1"
+      ],
+      [
+        "",
+        "B2",
+        "Facilities for training and above higher secondary education",
+        "1"
+      ],
+      [
+        "",
+        "B3",
+        "Pre-school facilities",
+        "1"
+      ]
+    ]
+  },
+  {
+    "table_id": "table_0008",
+    "page_no": 9,
+    "bbox": {
+      "l": 125.31002807617188,
+      "t": 702.2117156982422,
+      "r": 486.6780090332031,
+      "b": 150.17755126953125,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "",
+    "num_rows": 27,
+    "num_cols": 4,
+    "rows": [
+      [
+        "Occupancy Type",
+        "Subdivision",
+        "Nature of Use or Occupancy",
+        "Fire Index*"
+      ],
+      [
+        "C: Institution for Care",
+        "C1",
+        "Institution for care of children",
+        "1"
+      ],
+      [
+        "C: Institution for Care",
+        "C2",
+        "Custodial institution for physically capable adults",
+        "1"
+      ],
+      [
+        "C: Institution for Care",
+        "C3",
+        "Custodial institution for the incapable adults",
+        "1"
+      ],
+      [
+        "C: Institution for Care",
+        "C4",
+        "Penal and mental institutions for children",
+        "1"
+      ],
+      [
+        "C: Institution for Care",
+        "C5",
+        "Penal and mental institutions for adults",
+        "1"
+      ],
+      [
+        "D: Healthcare Facilities",
+        "D1",
+        "Normal medical facilities",
+        "2"
+      ],
+      [
+        "D: Healthcare Facilities",
+        "D2",
+        "Emergency medical facilities",
+        "2"
+      ],
+      [
+        "E: Business",
+        "E1",
+        "Offices",
+        "2"
+      ],
+      [
+        "E: Business",
+        "E2",
+        "Research and testing laboratories",
+        "2"
+      ],
+      [
+        "E: Business",
+        "E3",
+        "Essential services",
+        "2"
+      ],
+      [
+        "F: Mercantile",
+        "F1",
+        "Small shops and market",
+        "2"
+      ],
+      [
+        "F: Mercantile",
+        "F2",
+        "Large shops and market",
+        "2"
+      ],
+      [
+        "F: Mercantile",
+        "F3",
+        "Refueling station",
+        "2"
+      ],
+      [
+        "G: Industrial Buildings",
+        "G1",
+        "Low hazard industries",
+        "3"
+      ],
+      [
+        "G: Industrial Buildings",
+        "G2",
+        "Moderate hazard industries",
+        "3"
+      ],
+      [
+        "H: Storage Buildings",
+        "H1",
+        "Low fire risk storage",
+        "3"
+      ],
+      [
+        "H: Storage Buildings",
+        "H2",
+        "Moderate fire risk storage",
+        "3"
+      ],
+      [
+        "I: Assembly",
+        "I1",
+        "Large assembly with fixed seats",
+        "1"
+      ],
+      [
+        "I: Assembly",
+        "I2",
+        "Small assembly with fixed seats",
+        "1"
+      ],
+      [
+        "I: Assembly",
+        "I3",
+        "Large assembly without fixed seats",
+        "1"
+      ],
+      [
+        "I: Assembly",
+        "I4",
+        "Small assembly without fixed seats",
+        "1"
+      ],
+      [
+        "I: Assembly",
+        "I5",
+        "Sports facilities",
+        "1"
+      ],
+      [
+        "J: Hazardous Building",
+        "J1",
+        "Explosion hazard building",
+        "4"
+      ],
+      [
+        "J: Hazardous Building",
+        "J2",
+        "Chemical hazard building",
+        "4"
+      ],
+      [
+        "J: Hazardous Building",
+        "J3",
+        "Biological hazard building",
+        "4"
+      ],
+      [
+        "J: Hazardous Building",
+        "J4",
+        "Radiation hazard building",
+        "4"
+      ]
+    ]
+  },
+  {
+    "table_id": "table_0009",
+    "page_no": 10,
+    "bbox": {
+      "l": 124.9092788696289,
+      "t": 703.7267684936523,
+      "r": 487.029296875,
+      "b": 551.781494140625,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "",
+    "num_rows": 7,
+    "num_cols": 4,
+    "rows": [
+      [
+        "Occupancy Type",
+        "Subdivision",
+        "Nature of Use or Occupancy",
+        "Fire Index*"
+      ],
+      [
+        "K: Garage",
+        "K1",
+        "Parking garage",
+        "2"
+      ],
+      [
+        "",
+        "K2",
+        "Private garage",
+        "1"
+      ],
+      [
+        "",
+        "K3",
+        "Repair garage",
+        "3"
+      ],
+      [
+        "L: Utility",
+        "L",
+        "Utility",
+        "2"
+      ],
+      [
+        "M: Miscellaneous",
+        "M1",
+        "Special structures",
+        "2"
+      ],
+      [
+        "",
+        "M2",
+        "Fences, tanks and towers",
+        "1"
+      ]
+    ]
+  },
+  {
+    "table_id": "table_0010",
+    "page_no": 10,
+    "bbox": {
+      "l": 125.83032989501953,
+      "t": 478.2601013183594,
+      "r": 486.45849609375,
+      "b": 280.1847229003906,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "Table 3.1.2: Summary of Classification of Buildings Based on Types of Construction",
+    "num_rows": 3,
+    "num_cols": 3,
+    "rows": [
+      [
+        "Construction Group",
+        "Construction Type",
+        "Description"
+      ],
+      [
+        "Group I: Non-combustible",
+        "Type I-A Type I-B Type I-C Type I-D Type I-E",
+        "4 hour protected 3 hour protected 2 hour protected 1 hour protected Unprotected"
+      ],
+      [
+        "Group II: Combustible",
+        "Type II-A Type II-B Type II-C Type II-D Type II-E",
+        "Heavy timber Protected wood joist Unprotected wood joist Protected wood frame Unprotected wood frame"
+      ]
+    ]
+  },
+  {
+    "table_id": "table_0011",
+    "page_no": 11,
+    "bbox": {
+      "l": 125.02095794677734,
+      "t": 506.295654296875,
+      "r": 486.5658874511719,
+      "b": 363.59320068359375,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "Table 3.1.3: Minimum Distances from Overhead Electric Lines",
+    "num_rows": 4,
+    "num_cols": 3,
+    "rows": [
+      [
+        "Line Voltage",
+        "Vertically (m)",
+        "Horizontally (m)"
+      ],
+      [
+        "Low to medium voltage lines and Service lines",
+        "2.5",
+        "1.25"
+      ],
+      [
+        "High voltage lines up to 33 kV",
+        "3.5",
+        "1.75"
+      ],
+      [
+        "High voltage lines beyond 33 kV",
+        "3.5 plus 0.3 for each additional 33 kV or part thereof.",
+        "1.75 plus 0.3 for each additional 33 kV or part thereof."
+      ]
+    ]
+  },
+  {
+    "table_id": "table_0012",
+    "page_no": 13,
+    "bbox": {
+      "l": 124.67900085449219,
+      "t": 456.2806701660156,
+      "r": 420.2470703125,
+      "b": 354.89715576171875,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "Table 3.1.4: Maximum Permissible Length of Internal Access Roads in NonResidential Plots",
+    "num_rows": 5,
+    "num_cols": 2,
+    "rows": [
+      [
+        "Width (m)",
+        "Maximum Permissible Length (m)"
+      ],
+      [
+        "6",
+        "80"
+      ],
+      [
+        "7",
+        "150"
+      ],
+      [
+        "8",
+        "300"
+      ],
+      [
+        "10.8 or more",
+        "Unlimited"
+      ]
+    ]
+  },
+  {
+    "table_id": "table_0013",
+    "page_no": 17,
+    "bbox": {
+      "l": 125.01367950439453,
+      "t": 592.4302978515625,
+      "r": 486.6201477050781,
+      "b": 147.25872802734375,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "Table 3.1.5: Minimum Rear and Side Open Space Requirements of a Plot",
+    "num_rows": 11,
+    "num_cols": 4,
+    "rows": [
+      [
+        "Occupancy",
+        "Plot Size* (m²)",
+        "Rear Separation Distance (m)",
+        "Side Separation Distance a (m)"
+      ],
+      [
+        "Residential (Row type, not higher than 15m or 4 stories)",
+        "Not over 67 Over 67 to below 134",
+        "1.25 1.5",
+        "Nil b Nil b"
+      ],
+      [
+        "Residential (Semi- detached, not higher than 10 stories or 33 m)",
+        "134 to 268 Over 268",
+        "2.5 3.0",
+        "PG c , 2.5 PG c , 2.5"
+      ],
+      [
+        "Residential (Detached, Not higher than 10 stories or 33 m)",
+        "134 to 268",
+        "2.5",
+        "1.25"
+      ],
+      [
+        "Residential (Detached, Not higher than 10 stories or 33 m)",
+        "Over 268",
+        "3.0",
+        "1.25"
+      ],
+      [
+        "Residential(Detached, Higher than 10 stories or 33 m)",
+        "Over 268",
+        "3.0",
+        "3.0"
+      ],
+      [
+        "Institution for care",
+        "As permitted for this occupancy",
+        "3.0",
+        "3.0"
+      ],
+      [
+        "Educational",
+        "As permitted for this occupancy",
+        "3.0",
+        "3.0"
+      ],
+      [
+        "Assembly",
+        "Any",
+        "3.0",
+        "3.0"
+      ],
+      [
+        "Business and Mercantile d (Not higher than 10 stories or 33 m) semi- detached",
+        "Any",
+        "1.5",
+        "PG c , 3.0"
+      ],
+      [
+        "Business and Mercantile (Not higher than 10 stories or 33 m) Detached",
+        "Any",
+        "1.5",
+        "1.25, 2.5"
+      ]
+    ]
+  },
+  {
+    "table_id": "table_0014",
+    "page_no": 18,
+    "bbox": {
+      "l": 124.88204956054688,
+      "t": 702.8252410888672,
+      "r": 486.65020751953125,
+      "b": 444.9636535644531,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "",
+    "num_rows": 6,
+    "num_cols": 4,
+    "rows": [
+      [
+        "Occupancy",
+        "Plot Size* (m²)",
+        "Rear Separation Distance (m)",
+        "Side Separation Distance a (m)"
+      ],
+      [
+        "Business and Mercantile d (Higher than 10 stories or 33 m) semi-detached",
+        "Over 536",
+        "3.0",
+        "PG c , 6.0"
+      ],
+      [
+        "Business and Mercantile (Higher than 10 stories or 33 m) Detached",
+        "Over 536",
+        "3.0",
+        "3.0"
+      ],
+      [
+        "Industrial",
+        "As permitted for this occupancy",
+        "As per provisions of this Code",
+        "As per provisions of this Code"
+      ],
+      [
+        "Storage",
+        "As permitted for this occupancy",
+        "As per provisions of this Code",
+        "As per provisions of this Code"
+      ],
+      [
+        "Hazardous",
+        "As permitted for this occupancy",
+        "As per provisions of this Code",
+        "As per provisions of this Code"
+      ]
+    ]
+  },
+  {
+    "table_id": "table_0015",
+    "page_no": 19,
+    "bbox": {
+      "l": 125.38068389892578,
+      "t": 399.7912902832031,
+      "r": 486.052734375,
+      "b": 156.759765625,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "Table 3.1.6: Minimum Area of Interior Courtyard",
+    "num_rows": 14,
+    "num_cols": 3,
+    "rows": [
+      [
+        "No. of Stories",
+        "Maximum Height (m)",
+        "Minimum Net Area of the Interior Courtyard,m 2"
+      ],
+      [
+        "Up to 3",
+        "11",
+        "9"
+      ],
+      [
+        "4",
+        "14",
+        "16"
+      ],
+      [
+        "5",
+        "17",
+        "25"
+      ],
+      [
+        "6",
+        "20",
+        "36"
+      ],
+      [
+        "7",
+        "23",
+        "49"
+      ],
+      [
+        "8",
+        "26",
+        "64"
+      ],
+      [
+        "9",
+        "29",
+        "81"
+      ],
+      [
+        "10",
+        "32",
+        "100"
+      ],
+      [
+        "11",
+        "36",
+        "121"
+      ],
+      [
+        "12-13",
+        "42",
+        "144"
+      ],
+      [
+        "14-15",
+        "48",
+        "196"
+      ],
+      [
+        "16-17",
+        "54",
+        "256"
+      ],
+      [
+        "18-20",
+        "63",
+        "361"
+      ]
+    ]
+  },
+  {
+    "table_id": "table_0016",
+    "page_no": 22,
+    "bbox": {
+      "l": 125.83582305908203,
+      "t": 463.39923095703125,
+      "r": 486.6831970214844,
+      "b": 146.39288330078125,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "Table 3.1.7: Height Limitations Based on Road Width and Front Open Space",
+    "num_rows": 17,
+    "num_cols": 9,
+    "rows": [
+      [
+        "2 × (Front Road Width",
+        "Maximum Permissible Height in Terms of Construction Classification",
+        "Maximum Permissible Height in Terms of Construction Classification",
+        "Maximum Permissible Height in Terms of Construction Classification",
+        "Maximum Permissible Height in Terms of Construction Classification",
+        "Maximum Permissible Height in Terms of Construction Classification",
+        "Maximum Permissible Height in Terms of Construction Classification",
+        "Maximum Permissible Height in Terms of Construction Classification",
+        "Maximum Permissible Height in Terms of Construction Classification"
+      ],
+      [
+        "Plus Front Open",
+        "Group- I*",
+        "Group- I*",
+        "Group- I*",
+        "Group- I*",
+        "Group- I*",
+        "Group- I*",
+        "Group-II*",
+        "Group-II*"
+      ],
+      [
+        "Space)",
+        "Type I-A and Type I-B",
+        "Type I-A and Type I-B",
+        "Type I-C",
+        "Type I-C",
+        "Type I-D",
+        "Type I-D",
+        "Type II-A, II- B, II-D",
+        "Type II-A, II- B, II-D"
+      ],
+      [
+        "",
+        "No. of storeys",
+        "Height (m)",
+        "No. of storeys",
+        "Height (m)",
+        "No. of storeys",
+        "Height (m)",
+        "No. of storeys",
+        "Height (m)"
+      ],
+      [
+        "Below 10.6 m",
+        "3",
+        "11",
+        "2",
+        "8",
+        "2",
+        "8",
+        "2",
+        "8"
+      ],
+      [
+        "10.6 mto below 13.6m",
+        "4",
+        "14",
+        "3",
+        "11",
+        "2",
+        "8",
+        "2",
+        "8"
+      ],
+      [
+        "13.6 mto below 16.6m",
+        "5",
+        "17",
+        "4",
+        "14",
+        "3",
+        "11",
+        "3",
+        "11"
+      ],
+      [
+        "16.6 mto below 19.6m",
+        "6",
+        "20",
+        "4",
+        "14",
+        "3",
+        "11",
+        "3",
+        "11"
+      ],
+      [
+        "19.6 mto below 22.6m",
+        "7",
+        "23",
+        "4",
+        "14",
+        "3",
+        "11",
+        "3",
+        "11"
+      ],
+      [
+        "22.6 mto below 25.6m",
+        "8",
+        "26",
+        "4",
+        "14",
+        "3",
+        "11",
+        "3",
+        "11"
+      ],
+      [
+        "25.6 mto below 28.6m",
+        "9",
+        "29",
+        "4",
+        "14",
+        "3",
+        "11",
+        "3",
+        "11"
+      ],
+      [
+        "28.6 mto below 31.6m",
+        "10",
+        "32",
+        "4",
+        "14",
+        "3",
+        "11",
+        "3",
+        "11"
+      ],
+      [
+        "31.6 mto below 34.6m",
+        "11",
+        "36",
+        "4",
+        "14",
+        "3",
+        "11",
+        "3",
+        "11"
+      ],
+      [
+        "34.6 mto below 37.6m",
+        "12",
+        "39",
+        "4",
+        "14",
+        "3",
+        "11",
+        "3",
+        "11"
+      ],
+      [
+        "37.6 mto below 40.6m",
+        "13",
+        "42",
+        "4",
+        "14",
+        "3",
+        "11",
+        "3",
+        "11"
+      ],
+      [
+        "40.6 mto below 43.6m",
+        "14",
+        "45",
+        "4",
+        "14",
+        "3",
+        "11",
+        "3",
+        "11"
+      ],
+      [
+        "43.6 mto below 46.6m and so on in increments",
+        "15",
+        "48",
+        "4",
+        "14",
+        "3",
+        "11",
+        "3",
+        "11"
+      ]
+    ]
+  },
+  {
+    "table_id": "table_0017",
+    "page_no": 23,
+    "bbox": {
+      "l": 124.72054290771484,
+      "t": 275.85675048828125,
+      "r": 491.9202575683594,
+      "b": 144.624755859375,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "Table 3.1.8: Minimum Separation Distance for Buildings of Unlimited Height",
+    "num_rows": 6,
+    "num_cols": 4,
+    "rows": [
+      [
+        "Occupancy",
+        "Minimum Separation Distance from Plot",
+        "Minimum Separation Distance from Plot",
+        "Minimum Separation Distance from Plot"
+      ],
+      [
+        "",
+        "Frontage (m)",
+        "Rear (m)",
+        "Side (m)"
+      ],
+      [
+        "Residential",
+        "4.0",
+        "6.0",
+        "4.0"
+      ],
+      [
+        "Business, Mercantile.",
+        "6.0",
+        "6.0",
+        "6.0"
+      ],
+      [
+        "Educational, Institutional for care, Medical facilities.",
+        "6.0",
+        "6.0",
+        "6.0"
+      ],
+      [
+        "Others",
+        "As per provision of this Code",
+        "As per provision of this Code",
+        "As per provision of this Code"
+      ]
+    ]
+  },
+  {
+    "table_id": "table_0018",
+    "page_no": 27,
+    "bbox": {
+      "l": 125.10704803466797,
+      "t": 317.3230895996094,
+      "r": 486.5758056640625,
+      "b": 231.67919921875,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "Table 3.1.9: Minimum Ceiling Heights for Different Occupancies",
+    "num_rows": 3,
+    "num_cols": 2,
+    "rows": [
+      [
+        "Occupancy",
+        "Minimum Ceiling Height"
+      ],
+      [
+        "Educational, Institutional, Health Care, Assembly.",
+        "3 mfor non-air-conditioned and 2.6 mfor air- conditioned buildings."
+      ],
+      [
+        "Industrial, Storage, Hazardous.",
+        "3.5 mfor non-air-conditioned and 3.0 mfor air- conditioned buildings."
+      ]
+    ]
+  },
+  {
+    "table_id": "table_0019",
+    "page_no": 28,
+    "bbox": {
+      "l": 125.005859375,
+      "t": 250.59100341796875,
+      "r": 465.37445068359375,
+      "b": 146.768798828125,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "Table 3.1.10: Bathroom Space Standards",
+    "num_rows": 6,
+    "num_cols": 3,
+    "rows": [
+      [
+        "Facility",
+        "Minimum Width (m)",
+        "Floor Area (m 2 )"
+      ],
+      [
+        "Water closet + bathing + hand washing",
+        "1.25",
+        "3.00"
+      ],
+      [
+        "Water closet + bathing",
+        "1.00",
+        "2.80"
+      ],
+      [
+        "Bathing only",
+        "1.00",
+        "1.50"
+      ],
+      [
+        "Water closet only",
+        "1.00",
+        "1.20"
+      ],
+      [
+        "Adaptable toilets",
+        "1.50",
+        "as per Appendix D"
+      ]
+    ]
+  },
+  {
+    "table_id": "table_0020",
+    "page_no": 29,
+    "bbox": {
+      "l": 125.37017822265625,
+      "t": 517.6238403320312,
+      "r": 450.6940612792969,
+      "b": 390.4488525390625,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "Table 3.1.11: Minimum Dimensions of Lighting and Ventilation Shaft",
+    "num_rows": 7,
+    "num_cols": 4,
+    "rows": [
+      [
+        "Building Height",
+        "Building Height",
+        "Minimum Net Cross Sectional Area of Shaft 2",
+        "Minimum Width of Shaft"
+      ],
+      [
+        "No. of Stories",
+        "Height (m)",
+        "(m )",
+        "(m)"
+      ],
+      [
+        "Up to 3",
+        "Up to 11",
+        "1.50",
+        "1.00"
+      ],
+      [
+        "4",
+        "14",
+        "3.00",
+        "1.20"
+      ],
+      [
+        "5",
+        "17",
+        "4.00",
+        "1.50"
+      ],
+      [
+        "6",
+        "20",
+        "5.00",
+        "2.00"
+      ],
+      [
+        "Over 6*",
+        "Over 20",
+        "6.50",
+        "2.50"
+      ]
+    ]
+  },
+  {
+    "table_id": "table_0021",
+    "page_no": 35,
+    "bbox": {
+      "l": 125.32772827148438,
+      "t": 676.2348403930664,
+      "r": 421.5735778808594,
+      "b": 537.1237335205078,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "Table 3.1.12: Dimension of Openings for Different Uses",
+    "num_rows": 4,
+    "num_cols": 4,
+    "rows": [
+      [
+        "Space",
+        "Percent Area",
+        "of",
+        "Floor"
+      ],
+      [
+        "Habitable rooms such as those used for sleeping, living, study, dining etc.",
+        "",
+        "15",
+        ""
+      ],
+      [
+        "Kitchens*",
+        "",
+        "18",
+        ""
+      ],
+      [
+        "Non-habitable spaces such as bathrooms, store, staircase and other utility",
+        "",
+        "10",
+        ""
+      ]
+    ]
+  },
+  {
+    "table_id": "table_0022",
+    "page_no": 41,
+    "bbox": {
+      "l": 124.08318328857422,
+      "t": 417.5843200683594,
+      "r": 395.9914855957031,
+      "b": 301.8525695800781,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "",
+    "num_rows": 6,
+    "num_cols": 2,
+    "rows": [
+      [
+        "Appendix A",
+        "Development Control and Planning"
+      ],
+      [
+        "Appendix B",
+        "Minimum Standard Housing"
+      ],
+      [
+        "Appendix C",
+        "Cluster Planning"
+      ],
+      [
+        "Appendix D",
+        "Universal Accessibility"
+      ],
+      [
+        "Appendix E",
+        "Building Types"
+      ],
+      [
+        "Appendix F",
+        "Road Hierarchy, On-street and Off-street Parking"
+      ]
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "figure_id": "figure_0000",
+    "page_no": 15,
+    "bbox": {
+      "l": 128.769775390625,
+      "t": 641.3938598632812,
+      "r": 486.081298828125,
+      "b": 337.8014221191406,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "Figure 3.1.1 Separation distance for variation in occupancies and heights",
+    "file": "/content/structured_out/images/figure_0000_p15.jpg"
+  },
+  {
+    "figure_id": "figure_0001",
+    "page_no": 16,
+    "bbox": {
+      "l": 149.2969512939453,
+      "t": 642.0911407470703,
+      "r": 471.67218017578125,
+      "b": 320.3507995605469,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "Figure 3.1.2 Definition of front, side and rear of a plot",
+    "file": "/content/structured_out/images/figure_0001_p16.jpg"
+  },
+  {
+    "figure_id": "figure_0002",
+    "page_no": 16,
+    "bbox": {
+      "l": 168.42156982421875,
+      "t": 299.01959228515625,
+      "r": 464.1577453613281,
+      "b": 161.056640625,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "Figure 3.1.3 Restrictions for corner-plots",
+    "file": "/content/structured_out/images/figure_0002_p16.jpg"
+  },
+  {
+    "figure_id": "figure_0003",
+    "page_no": 25,
+    "bbox": {
+      "l": 124.05078887939453,
+      "t": 563.3801727294922,
+      "r": 486.21429443359375,
+      "b": 195.78497314453125,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "Figure 3.1.4 Limiting envelope for stepped tower structures",
+    "file": "/content/structured_out/images/figure_0003_p25.jpg"
+  }
+]
