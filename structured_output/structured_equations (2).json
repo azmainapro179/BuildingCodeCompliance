@@ -1,0 +1,171 @@
+[
+  {
+    "equation_id": "eq_00005",
+    "page_no": 1,
+    "bbox": {
+      "l": 199.68,
+      "t": 627.44,
+      "r": 449.932,
+      "b": 588.199,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "latex": "F_{c}=\\frac{\\alpha_{c}a_{h}W_{c}I_{c}}{R_{c}}\\left(1+2\\frac{z}{h}\\right)",
+    "file": "/content/structured_out/equations/eq_00005_p1.jpg"
+  },
+  {
+    "equation_id": "eq_00006",
+    "page_no": 1,
+    "bbox": {
+      "l": 162.0,
+      "t": 581.48,
+      "r": 293.37,
+      "b": 542.239,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "latex": "0.75a_{h}W_{c}I_{c}&\\leqF_{c}\\leq1.5a_{h}W_{c}I_{c}\\\\\\alpha_{c}&=\\text{componentamplificationfact}",
+    "file": "/content/structured_out/equations/eq_00006_p1.jpg"
+  },
+  {
+    "equation_id": "eq_00016",
+    "page_no": 1,
+    "bbox": {
+      "l": 199.92,
+      "t": 180.44100000000003,
+      "r": 452.316,
+      "b": 141.20000000000005,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "latex": "\\text{shallbedeterminedasfollows:}\\\\D_{c}=\\delta_{xA}-\\delta_{yA}",
+    "file": "/content/structured_out/equations/eq_00016_p1.jpg"
+  },
+  {
+    "equation_id": "eq_00022",
+    "page_no": 2,
+    "bbox": {
+      "l": 199.92,
+      "t": 681.345,
+      "r": 449.931,
+      "b": 636.199,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "latex": "D_{c\\max}=\\frac{\\left(h_{x}-h_{y}\\right)\\Delta_{aA}}{h_{sx}}",
+    "file": "/content/structured_out/equations/eq_00022_p2.jpg"
+  },
+  {
+    "equation_id": "eq_00031",
+    "page_no": 2,
+    "bbox": {
+      "l": 199.8,
+      "t": 438.56,
+      "r": 450.052,
+      "b": 399.32,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "latex": "s,\\,one\\,at\\,elvel\\,x\\,and\\,\\text{theotheratlevely,}D_{c}\\,\\text{shallbedeterminedasfollows:}\\\\D_{c}=&\\left|\\delta_{xA}\\right|+\\left|\\delta_{yB}\\right|\\\\",
+    "file": "/content/structured_out/equations/eq_00031_p2.jpg"
+  },
+  {
+    "equation_id": "eq_00032",
+    "page_no": 2,
+    "bbox": {
+      "l": 199.92,
+      "t": 372.56,
+      "r": 450.052,
+      "b": 333.32,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "latex": "D_{c\\max}=\\frac{h_{x}\\Delta_{aA}}{h_{sx}}+\\frac{h_{y}\\Delta_{aB}}{h_{sx}}",
+    "file": "/content/structured_out/equations/eq_00032_p2.jpg"
+  },
+  {
+    "equation_id": "eq_00079",
+    "page_no": 8,
+    "bbox": {
+      "l": 199.68,
+      "t": 189.51700000000005,
+      "r": 452.625,
+      "b": 156.606,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "latex": "D_{D}=\\frac{S_{a}g}{4\\pi^{2}}\\left(\\frac{T_{D}^{2}}{B_{D}}\\right)",
+    "file": "/content/structured_out/equations/eq_00079_p8.jpg"
+  },
+  {
+    "equation_id": "eq_00088",
+    "page_no": 9,
+    "bbox": {
+      "l": 198.84,
+      "t": 512.289,
+      "r": 452.625,
+      "b": 486.228,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "latex": "T_{D}=2\\pi\\sqrt{\\frac{W}{k_{D\\min}g}}",
+    "file": "/content/structured_out/equations/eq_00088_p9.jpg"
+  },
+  {
+    "equation_id": "eq_00096",
+    "page_no": 10,
+    "bbox": {
+      "l": 199.68,
+      "t": 655.609,
+      "r": 450.136,
+      "b": 622.683,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "latex": "D_{M}=\\frac{S_{aM}g}{4\\pi^{2}}\\left(\\frac{T_{M}^{2}}{B_{M}}\\right)",
+    "file": "/content/structured_out/equations/eq_00096_p10.jpg"
+  },
+  {
+    "equation_id": "eq_00101",
+    "page_no": 10,
+    "bbox": {
+      "l": 198.96,
+      "t": 477.831,
+      "r": 450.136,
+      "b": 451.282,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "latex": "T_{M}=2\\pi\\sqrt{\\frac{W}{k_{M\\min}g}}",
+    "file": "/content/structured_out/equations/eq_00101_p10.jpg"
+  },
+  {
+    "equation_id": "eq_00105",
+    "page_no": 10,
+    "bbox": {
+      "l": 198.84,
+      "t": 171.62200000000007,
+      "r": 452.624,
+      "b": 147.22800000000007,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "latex": "V_{s}=\\frac{k_{D\\max}D_{D}}{R_{I}}",
+    "file": "/content/structured_out/equations/eq_00105_p10.jpg"
+  },
+  {
+    "equation_id": "eq_00117",
+    "page_no": 11,
+    "bbox": {
+      "l": 198.0,
+      "t": 316.521,
+      "r": 452.625,
+      "b": 277.28,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "latex": "V_{b}=k_{Dmax}D_{D}",
+    "file": "/content/structured_out/equations/eq_00117_p11.jpg"
+  },
+  {
+    "equation_id": "eq_00120",
+    "page_no": 11,
+    "bbox": {
+      "l": 199.68,
+      "t": 180.62099999999998,
+      "r": 455.145,
+      "b": 135.61300000000006,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "latex": "F_{x}=V_{s}\\frac{w_{x}h_{x}}{\\sum_{i=1}^{n}w_{i}h_{i}}",
+    "file": "/content/structured_out/equations/eq_00120_p11.jpg"
+  }
+]
