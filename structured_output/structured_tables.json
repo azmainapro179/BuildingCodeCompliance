@@ -1,6 +1,7 @@
 [
   {
-    "table_id": "table_0000",
+    "table_id": "6.2.22",
+    "raw_table_id": "table_0000",
     "page_no": 4,
     "bbox": {
       "l": 124.5010757446289,
@@ -9,8 +10,8 @@
       "b": 144.6654052734375,
       "coord_origin": "BOTTOMLEFT"
     },
-    "caption": "",
-    "num_rows": 9,
+    "caption": "Table 6.2.22: Coefficients ł 0 and 10 for Architectural Components",
+    "num_rows": 33,
     "num_cols": 3,
     "rows": [
       [
@@ -57,27 +58,6 @@
         "Exterior Nonstructural Walls",
         "1.0",
         "2.5"
-      ]
-    ]
-  },
-  {
-    "table_id": "table_0001",
-    "page_no": 5,
-    "bbox": {
-      "l": 124.77910614013672,
-      "t": 703.6206512451172,
-      "r": 487.2431335449219,
-      "b": 220.3321533203125,
-      "coord_origin": "BOTTOMLEFT"
-    },
-    "caption": "",
-    "num_rows": 25,
-    "num_cols": 3,
-    "rows": [
-      [
-        "Architectural Componentor Element",
-        "ł 0 a",
-        "1 0"
       ],
       [
         "Exterior Nonstructural Wall Elements and Connections",
@@ -199,10 +179,15 @@
         "2.5",
         "2.5"
       ]
+    ],
+    "page_span": [
+      4,
+      5
     ]
   },
   {
-    "table_id": "table_0002",
+    "table_id": "6.2.23",
+    "raw_table_id": "table_0002",
     "page_no": 6,
     "bbox": {
       "l": 124.78797149658203,
@@ -212,7 +197,7 @@
       "coord_origin": "BOTTOMLEFT"
     },
     "caption": "Table 6.2.23: Coefficients ł 0 and 10 for Mechanical and Electrical Components",
-    "num_rows": 21,
+    "num_rows": 35,
     "num_cols": 3,
     "rows": [
       [
@@ -319,27 +304,6 @@
         "Wet-side HVAC, boilers, furnaces, atmospheric tanks and bins, chillers, water heaters, heat exchangers, evaporators, air separators, manufacturing or process equipment, and other mechanical components constructed of high- deformability materials.",
         "1.0",
         "2.5"
-      ]
-    ]
-  },
-  {
-    "table_id": "table_0003",
-    "page_no": 7,
-    "bbox": {
-      "l": 124.77044677734375,
-      "t": 702.6333160400391,
-      "r": 487.09490966796875,
-      "b": 282.5887756347656,
-      "coord_origin": "BOTTOMLEFT"
-    },
-    "caption": "",
-    "num_rows": 15,
-    "num_cols": 3,
-    "rows": [
-      [
-        "Mechanical and Electrical Components",
-        "ł 0 a",
-        "1 0"
       ],
       [
         "Engines, turbines, pumps, compressors, and pressure vessels not supported on skirts and not within the scope of Chapter 15.",
@@ -411,10 +375,15 @@
         "2.5",
         "6.0"
       ]
+    ],
+    "page_span": [
+      6,
+      7
     ]
   },
   {
-    "table_id": "table_0004",
+    "table_id": "6.2.24",
+    "raw_table_id": "table_0004",
     "page_no": 9,
     "bbox": {
       "l": 125.23192596435547,

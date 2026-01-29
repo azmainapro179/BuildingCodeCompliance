@@ -12,7 +12,13 @@
       "figures": [],
       "equations": [],
       "text": "",
-      "lists": []
+      "lists": [],
+      "references": {
+        "sections": [],
+        "tables": [],
+        "figures": [],
+        "equations": []
+      }
     },
     "2.5.15.3": {
       "id": "2.5.15.3",
@@ -27,7 +33,13 @@
         }
       ],
       "text": "Seismic design force\nThe seismic design force, F c , applied in the horizontal direction shall be centered at the component's center of gravity and distributed relative to the component ' s mass distribution and shall be determined as follows:\nWhere,\n$$ F_{c}=\\frac{\\alpha_{c}a_{h}W_{c}I_{c}}{R_{c}}\\left(1+2\\frac{z}{h}\\right) $$",
-      "lists": []
+      "lists": [],
+      "references": {
+        "sections": [],
+        "tables": [],
+        "figures": [],
+        "equations": []
+      }
     },
     "2.5.15": {
       "id": "2.5.15",
@@ -40,7 +52,13 @@
       "figures": [],
       "equations": [],
       "text": "",
-      "lists": []
+      "lists": [],
+      "references": {
+        "sections": [],
+        "tables": [],
+        "figures": [],
+        "equations": []
+      }
     },
     "0": {
       "id": "0",
@@ -50,7 +68,16 @@
       "figures": [],
       "equations": [],
       "text": "L 3 5 expected horizontal peak ground acceleration (in g) for design 5 0.67ZS\na + 5 component amplification factor which varies from 1.0 to 2.5 (Table 6.2.22 or Table 6.2.23).\nI + 5 weight of component",
-      "lists": []
+      "lists": [],
+      "references": {
+        "sections": [],
+        "tables": [
+          "6.2.22",
+          "6.2.23"
+        ],
+        "figures": [],
+        "equations": []
+      }
     },
     "4": {
       "id": "4",
@@ -60,7 +87,16 @@
       "figures": [],
       "equations": [],
       "text": "@ + 5 component response reduction factor which varies from 1.0 to 12.0 (Table 6.2.22 or Table 6.2.23)\nh 5 roof height of structure above the base\nWhere non-seismic loads on nonstructural components exceed & + such loads shall govern the strength design, but the seismic detailing requirements and limitations shall apply.\nThe force & + shall be independently applied in at least two orthogonal horizontal directions in combination with service loads associated with the component. In addition, the component shall also be designed for a concurrent vertical force of ± 0.5 a h W c .",
-      "lists": []
+      "lists": [],
+      "references": {
+        "sections": [],
+        "tables": [
+          "6.2.22",
+          "6.2.23"
+        ],
+        "figures": [],
+        "equations": []
+      }
     },
     "2.5.15.4": {
       "id": "2.5.15.4",
@@ -87,7 +123,13 @@
         }
       ],
       "text": "Seismic relative displacements\n$$ \\text{shallbedeterminedasfollows:}\\\\D_{c}=\\delta_{xA}-\\delta_{yA} $$\nThe relative seismic displacement, # + for two connection points on the same structure A, one at a height ℎ GLYPH<27> and other at height ℎ H , for use in component design shall be determined as follows:\n# + shall not exceed # + \\'GLYPH<27> given by:\nWhere,\n$$ D_{c\\max}=\\frac{\\left(h_{x}-h_{y}\\right)\\Delta_{aA}}{h_{sx}} $$\nGLYPH<23> GLYPH<27>w 5 Deflection at level x of structure A\nGLYPH<23> Hw 5 Deflection at level y of structure A\nhx = Height (above base) of level x to which upper connection point is attached.\n∆ 'w 5 Allowable story drift for structure A\nhy = Height (above base) of level y to which lower connection point is attached.\nhsx = Story height used in the definition of the allowable drift  a\nFor two connection points on separate structures, A and B, or separate structural systems, one at level x and the other at level y, Dc shall be determined as follows:\nD c shall not exceed D c max given by:\n$$ s,\\,one\\,at\\,elvel\\,x\\,and\\,\\text{theotheratlevely,}D_{c}\\,\\text{shallbedeterminedasfollows:}\\\\D_{c}=&\\left|\\delta_{xA}\\right|+\\left|\\delta_{yB}\\right|\\\\ $$\n$$ D_{c\\max}=\\frac{h_{x}\\Delta_{aA}}{h_{sx}}+\\frac{h_{y}\\Delta_{aB}}{h_{sx}} $$\nWhere,\n∆ 'A = Allowable story drift for structure B\nGLYPH<23> HA = Deflection at level y of structure B",
-      "lists": []
+      "lists": [],
+      "references": {
+        "sections": [],
+        "tables": [],
+        "figures": [],
+        "equations": []
+      }
     },
     "2.5.16": {
       "id": "2.5.16",
@@ -101,7 +143,13 @@
       "figures": [],
       "equations": [],
       "text": "Buildings that use special seismic isolation systems for protection against earthquakes shall be called seismically isolated or base isolated buildings. Seismically isolated structure and every portion thereof shall be designed and constructed in accordance with the requirements of provisions presented in this Section.\nThe effects of relative seismic relative displacements shall be considered in combination with displacements caused by other loads as appropriate.",
-      "lists": []
+      "lists": [],
+      "references": {
+        "sections": [],
+        "tables": [],
+        "figures": [],
+        "equations": []
+      }
     },
     "2.5": {
       "id": "2.5",
@@ -113,7 +161,13 @@
       "figures": [],
       "equations": [],
       "text": "",
-      "lists": []
+      "lists": [],
+      "references": {
+        "sections": [],
+        "tables": [],
+        "figures": [],
+        "equations": []
+      }
     },
     "2.5.16.1": {
       "id": "2.5.16.1",
@@ -138,71 +192,155 @@
             {
               "marker": "(1)",
               "text": "Design of isolation system shall consider variations in seismic isolator material properties over the projected life of structure including changes due to ageing, contamination, exposure to moisture, loadings, temperature, creep, fatigue, etc.",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             },
             {
               "marker": "(2)",
               "text": "Isolated structures shall resist design wind loads at all levels above the isolation interface. At the isolation interface, a wind restraint system shall be provided to limit lateral displacement in the isolation system to a value equal to that required between floors of the structure above the isolation interface.",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             },
             {
               "marker": "(3)",
               "text": "The fire resistance rating for the isolation system shall be consistent with the requirements of columns, walls, or other such elements in the same area of the structure.",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             },
             {
               "marker": "(4)",
               "text": "The isolation system shall be configured to produce a lateral restoring force such that the lateral force at the total design displacement is at least 0.025 W greater than the lateral force at 50% of the total design displacement.",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             },
             {
               "marker": "(5)",
               "text": "The isolation system shall not be configured to include a displacement restraint that limits lateral displacement due to the maximum considered earthquake to less than the total maximum displacement unless it is demonstrated by analysis that such engagement of restraint does not result in unsatisfactory performance of the structure.",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             },
             {
               "marker": "(6)",
               "text": "Each element of the isolation system shall be designed to be stable under the design vertical load when subjected to a horizontal displacement equal to the total maximum displacement.",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             },
             {
               "marker": "(7)",
               "text": "The factor of safety against global structural overturning at the isolation interface shall not be less than 1.0 for required load combinations. All gravity and seismic loading conditions shall be investigated. Seismic forces for overturning calculations shall be based on the maximum considered earthquake and the vertical restoring force shall be based on the seismic weight above the isolation interface.",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             },
             {
               "marker": "(8)",
               "text": "Local uplift of individual units of isolation system is permitted if the resulting deflections do not cause overstress or instability of the isolator units or other elements of the structure.",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             },
             {
               "marker": "(9)",
               "text": "Access for inspection and replacement of all components of the isolation system shall be provided.",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             },
             {
               "marker": "(10)",
               "text": "The designer of the isolation system shall establish a quality control testing program for isolator units. Each isolator unit before installation shall be tested under specified vertical and horizontal loads.",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             },
             {
               "marker": "(11)",
               "text": "After completion of construction, a design professional shall complete a final series of inspections or observations of structure separation areas and components that cross the isolation interface. Such inspections and observations shall confirm that existing conditions allow free and unhindered displacement of the structure to maximum design levels and that all components that cross the isolation interface as installed are able to accommodate the stipulated displacements.",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             },
             {
               "marker": "(12)",
               "text": "The designer of the isolation system shall establish a periodic monitoring, inspection, and maintenance program for such system.",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             },
             {
               "marker": "(13)",
               "text": "Remodeling, repair, or retrofitting at the isolation interface, including that of components that cross the isolation interface, shall be performed under the direction of a design professional experienced in seismic isolation systems.",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             }
           ]
         }
-      ]
+      ],
+      "references": {
+        "sections": [],
+        "tables": [],
+        "figures": [],
+        "equations": []
+      }
     },
     "2.5.16.2": {
       "id": "2.5.16.2",
@@ -223,27 +361,59 @@
             {
               "marker": "(1)",
               "text": "The structure is located on Site Class SA, SB, SC, SD or SE site;",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             },
             {
               "marker": "(2)",
               "text": "The structure above the isolation interface is not more than four stories or 20 m in height",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             },
             {
               "marker": "(3)",
               "text": "Effective period of the isolated structure at the maximum displacement, TM, is less than or equal to 3.0 sec.",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             },
             {
               "marker": "(4)",
               "text": "The effective period of the isolated structure at the design displacement, TD, is greater than three times the elastic, fixed-base period of the structure above the isolation system as determined in Sec. 2.5.7.2",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [
+                  "2.5.7.2"
+                ],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             },
             {
               "marker": "(5)",
               "text": "The structure above the isolation system is of regular configuration; and",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             },
             {
               "marker": "(6)",
@@ -252,23 +422,58 @@
                 {
                   "marker": "(a)",
                   "text": "The effective stiffness of the isolation system at the design displacement is greater than one third of the effective stiffness at 20 percent of the design displacement,",
-                  "children": []
+                  "children": [],
+                  "references": {
+                    "sections": [],
+                    "tables": [],
+                    "figures": [],
+                    "equations": []
+                  }
                 },
                 {
                   "marker": "(b)",
                   "text": "The isolation system is capable of producing a restoring force as specified in Sec. 2.5.16.1,",
-                  "children": []
+                  "children": [],
+                  "references": {
+                    "sections": [
+                      "2.5.16.1"
+                    ],
+                    "tables": [],
+                    "figures": [],
+                    "equations": []
+                  }
                 },
                 {
                   "marker": "(c)",
                   "text": "The isolation system does not limit maximum considered earthquake displacement to less than the total maximum displacement.",
-                  "children": []
+                  "children": [],
+                  "references": {
+                    "sections": [],
+                    "tables": [],
+                    "figures": [],
+                    "equations": []
+                  }
                 }
-              ]
+              ],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             }
           ]
         }
-      ]
+      ],
+      "references": {
+        "sections": [
+          "2.5.7.2",
+          "2.5.16.1"
+        ],
+        "tables": [],
+        "figures": [],
+        "equations": []
+      }
     },
     "2.5.16.2.1": {
       "id": "2.5.16.2.1",
@@ -300,7 +505,20 @@
         }
       ],
       "text": "Displacement of isolation system: The  isolation system shall be designed  and  constructed  to  withstand  minimum  lateral  earthquake  displacements that act in the direction of each of the main horizontal axes of the structure and such displacements shall be calculated as follows:\n$$ D_{D}=\\frac{S_{a}g}{4\\pi^{2}}\\left(\\frac{T_{D}^{2}}{B_{D}}\\right) $$\nWhere,\nWhere,\nSa = Design spectral acceleration (in units of g ), calculated using Eq. 6.2.34 for period TD and assuming R=1, I=1,  =1 (Sec 2.5.4.3) for the design basis earthquake (DBE).\ng = acceleration due to gravity\nBD = damping coefficient related to the effective damping βD of the isolation system at the design displacement, as set forth in Table 6.2.24.\nTD = effective period of seismically isolated structure at the design displacement in the direction under consideration, as prescribed by Eq. 6.2.63:\n$$ T_{D}=2\\pi\\sqrt{\\frac{W}{k_{D\\min}g}} $$\nW = seismic weight above the isolation interface kDmin = minimum effective stiffness of the isolation system at the design displacement in the horizontal direction under consideration.\nThe maximum displacement of the isolation system, DM, in the most critical direction of horizontal response shall be calculated in accordance with the following formula:\n$$ D_{M}=\\frac{S_{aM}g}{4\\pi^{2}}\\left(\\frac{T_{M}^{2}}{B_{M}}\\right) $$\nWhere:\nSaM = Maximum spectral acceleration (in units of g ), calculated using Eq. 6.2.34 for period TD and assuming R=1, I=1,  =1 (Sec 2.5.4.3) for the maximum considered earthquake (MCE).\nBM = numerical coefficient related to the effective damping βM of the isolation system at the maximum displacement, as set forth in Table 6.2.24.\nTM = effective period of seismic-isolated structure at the maximum displacement in the direction under consideration as prescribed by:\n$$ T_{M}=2\\pi\\sqrt{\\frac{W}{k_{M\\min}g}} $$\nWhere, m 2 \\GLYPH<11>) 5 minimum effective stiffness of the isolation system at the maximum displacement in the horizontal direction under consideration.\nThe total design displacement, DTD, and the total maximum displacement, DTM, of elements of the isolation system shall include additional displacement due to inherent and accidental torsion calculated considering the spatial distribution of the lateral stiffness of the isolation system and the most disadvantageous location of eccentric mass.",
-      "lists": []
+      "lists": [],
+      "references": {
+        "sections": [
+          "2.5.4.3"
+        ],
+        "tables": [
+          "6.2.24"
+        ],
+        "figures": [],
+        "equations": [
+          "6.2.34",
+          "6.2.63"
+        ]
+      }
     },
     "2.5.16.2.2": {
       "id": "2.5.16.2.2",
@@ -325,21 +543,55 @@
             {
               "marker": "(1)",
               "text": "The lateral force required by Sec 2.5.7 for a fixed-base structure of the same weight, W, and a period equal to the isolated period, TD;",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [
+                  "2.5.7"
+                ],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             },
             {
               "marker": "(2)",
               "text": "The base shear corresponding to the factored design wind load; and",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             },
             {
               "marker": "(3)",
               "text": "The lateral force required to fully activate the isolation system (e.g., the yield level of a softening system, the ultimate capacity of a sacrificial wind-restraint system, or the break-away friction level of a sliding system) multiplied by 1.5.",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             }
           ]
         }
-      ]
+      ],
+      "references": {
+        "sections": [
+          "2.5.7"
+        ],
+        "tables": [
+          "6.2.19"
+        ],
+        "figures": [],
+        "equations": [
+          "6.2.62",
+          "6.2.66",
+          "6.2.67"
+        ]
+      }
     },
     "2.5.16.2.3": {
       "id": "2.5.16.2.3",
@@ -354,7 +606,15 @@
         }
       ],
       "text": "Vertical  distribution  of  lateral  forces:  The  total  lateral  force  shall  be distributed over the height of the structure above  the isolation interface in accordance with Eq. 6.2.68 as follows:\n$$ F_{x}=V_{s}\\frac{w_{x}h_{x}}{\\sum_{i=1}^{n}w_{i}h_{i}} $$\nWhere:\nℎ GLYPH<11> , ℎ GLYPH<27> 5 Height above the base, to Level i or Level x, respectively.\nGLYPH<21> GLYPH<26> 5 Total seismic lateral design force on elements above the isolation system.\n[ GLYPH<11> , [ GLYPH<27> 5 Portion of W that is located at or assigned to Level i or Level x, respectively.\nAt each Level x the force, & GLYPH<27> shall be applied over the area of the structure in accordance with the distribution of mass at the level. Stresses in each structural element shall be determined by applying the lateral forces, & GLYPH<27> at all levels above the base to an analytical model.",
-      "lists": []
+      "lists": [],
+      "references": {
+        "sections": [],
+        "tables": [],
+        "figures": [],
+        "equations": [
+          "6.2.68"
+        ]
+      }
     },
     "2.5.16.2.4": {
       "id": "2.5.16.2.4",
@@ -364,7 +624,15 @@
       "figures": [],
       "equations": [],
       "text": "Storey drift:  The storey drift shall be calculated as in Sec 2.5.7.7 except that  Cd  for  the  isolated  structure  shall  be  taken  equal  to  RI  and  importance  factor equal to 1.0. The maximum storey drift of the structure above the isolation system shall not exceed 0.015hsx.",
-      "lists": []
+      "lists": [],
+      "references": {
+        "sections": [
+          "2.5.7.7"
+        ],
+        "tables": [],
+        "figures": [],
+        "equations": []
+      }
     },
     "2.5.16.3": {
       "id": "2.5.16.3",
@@ -380,22 +648,46 @@
             {
               "marker": "(i)",
               "text": "spatial distribution of isolator units",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             },
             {
               "marker": "(ii)",
               "text": "consideration of translation in both horizontal directions, and torsion of the structure above the isolation interface considering the most disadvantageous location of eccentric mass",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             },
             {
               "marker": "(iii)",
               "text": "overturning/uplift forces on individual isolator units; and",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             },
             {
               "marker": "(iv)",
               "text": "effects of vertical load, bilateral load, and the rate of loading if the force-deflection properties of the isolation system are dependent on such attributes.",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             }
           ]
         },
@@ -404,16 +696,38 @@
             {
               "marker": "(i)",
               "text": "stiffness properties assumed for the nonlinear components of the isolation system are based on the maximum effective stiffness of the isolation system, and",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             },
             {
               "marker": "(ii)",
               "text": "all elements of the seismic-force-resisting system of the structure above the isolation system behave linearly.",
-              "children": []
+              "children": [],
+              "references": {
+                "sections": [],
+                "tables": [],
+                "figures": [],
+                "equations": []
+              }
             }
           ]
         }
-      ]
+      ],
+      "references": {
+        "sections": [
+          "2.5.9.1",
+          "2.5.11.1",
+          "2.5.16"
+        ],
+        "tables": [],
+        "figures": [],
+        "equations": []
+      }
     }
   }
 }
