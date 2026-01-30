@@ -1,0 +1,2153 @@
+{
+  "root": "ROOT",
+  "nodes": {
+    "ROOT": {
+      "id": "ROOT",
+      "title": "",
+      "children": [
+        "3060",
+        "3076",
+        "3084"
+      ],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "",
+      "lists": []
+    },
+    "1.1": {
+      "id": "1.1",
+      "title": "Introduction",
+      "children": [
+        "1.1.1",
+        "1.1.2",
+        "1.1.3"
+      ],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "",
+      "lists": []
+    },
+    "1": {
+      "id": "1",
+      "title": "",
+      "children": [
+        "1.1",
+        "1.2",
+        "1.3",
+        "1.4",
+        "1.5",
+        "1.6",
+        "1.7",
+        "1.8",
+        "1.9"
+      ],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "",
+      "lists": []
+    },
+    "1.1.1": {
+      "id": "1.1.1",
+      "title": "Scope",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "The definitions providing meanings of different terms and general requirements for the structural design of buildings, structures, and components thereof are specified in this Chapter. These requirements shall apply to all buildings and structures or their components regulated by this Code. All anticipated loads required for structural design shall be determined in accordance with the provisions of Chapter 2. Design parameters required for the structural design of foundation elements shall conform to the provisions of Chapter 3. Design of structural members using various construction materials shall comply with the relevant provisions of Chapters 4 to 13. The FPS equivalents of the empirical expressions used throughout Part 6 are listed in Appendix A.\nThis Code shall govern in all matters pertaining to design, construction, and material properties wherever this Code is in conflict with requirements contained in other standards referenced in this Code. However, in special cases where the design of a structure or its components cannot be covered by the provisions of this Code, other relevant internationally accepted codes referred in this Code may be used.",
+      "lists": []
+    },
+    "1.1.2": {
+      "id": "1.1.2",
+      "title": "Definitions",
+      "children": [],
+      "tables": [
+        {
+          "table_id": "table_0000",
+          "caption": "The following definitions shall provide the meaning of certain terms used in this Chapter."
+        },
+        {
+          "table_id": "table_0002",
+          "caption": ""
+        }
+      ],
+      "figures": [],
+      "equations": [],
+      "text": "Part VI Chapter 1 Definitions and General Requirements",
+      "lists": []
+    },
+    "1.1.3": {
+      "id": "1.1.3",
+      "title": "Symbols and Notation",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "The following symbols and notation shall apply to the provisions of this Chapter:\nGLYPH<3> = Dead load on a member including self-weight and weight of components, materials and permanent equipment supported by the member\nGLYPH<4> =\nEarthquake load\nGLYPH<5> GLYPH<6> =\nLateral force applied at level GLYPH<10> GLYPH<11> of a building\nHeight of a building or a structure above ground level in metres\nℎ GLYPH<6> , ℎ GLYPH<13> , ℎ GLYPH<2> = Height in metres above ground level to level GLYPH<10> GLYPH<11> , - GLYPH<15> or - GLYPH<16> respectively\nlevel GLYPH<10> GLYPH<11> = GLYPH<11> GLYPH<17> ℎ level of a structure above the base; GLYPH<11> = 1 designates the first level above the base\nlevel GLYPH<10> GLYPH<15> = Upper most level of a structure\nlevel GLYPH<10> GLYPH<16> = GLYPH<16> GLYPH<17> ℎ level of a structure above the base; GLYPH<16> = 1 designates the first level above the base.\nGLYPH<18> =\nLive load due to intended use or occupancy\nGLYPH<19> =\nSpan of a member or component.\nGLYPH<20> GLYPH<2>\n= Overturning moment at level GLYPH<10> GLYPH<16>\nGLYPH<1> =\nTotal design lateral force or shear at the base\nGLYPH<1> GLYPH<2> =\nStorey shear at storey level GLYPH<10> GLYPH<16>\nGLYPH<21> =\nResponse modification or reduction coefficient for structural system given in Table 6.2.19 for seismic design.\nGLYPH<22> =\nFundamental period of vibration in seconds\nGLYPH<23> =\nLoad due to wind pressure.\nGLYPH<23> ′ =\nWeight of an element or component\nGLYPH<24> = Table 6.2.15\nSeismic zone coefficient given in Figure 6.2.24 or Table 6.2.14 or\n∆ = Storey lateral drift.",
+      "lists": []
+    },
+    "3060": {
+      "id": "3060",
+      "title": "evsjv‡`k †M‡RU, AwZwi³, †deªæqvwi 11, 2021",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "",
+      "lists": []
+    },
+    "1.2": {
+      "id": "1.2",
+      "title": "Basic  Considerations",
+      "children": [
+        "1.2.1",
+        "1.2.2",
+        "1.2.3",
+        "1.2.4",
+        "1.2.5",
+        "1.2.6",
+        "1.2.7",
+        "1.2.8",
+        "1.2.9",
+        "1.2.10",
+        "1.2.11",
+        "1.2.12",
+        "1.2.13",
+        "1.2.14",
+        "1.2.15",
+        "1.2.16",
+        "1.2.17"
+      ],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "",
+      "lists": []
+    },
+    "1.2.1": {
+      "id": "1.2.1",
+      "title": "General",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "All buildings and structures shall be designed and constructed in conformance with the provisions of this Section. The buildings and portions thereof shall support all loads including dead load specified in this Chapter and elsewhere in this Code. Impact, fatigue and self-straining forces shall be considered where these forces occur.",
+      "lists": []
+    },
+    "1.2.2": {
+      "id": "1.2.2",
+      "title": "Buildings and Structures",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "A structure shall ordinarily be described as an assemblage of framing members and components arranged to support both gravity and lateral forces. Structures may be classified as building and non-building structures. Structures that enclose a space and are used for various occupancies shall be called buildings or building structures. Structures other than buildings, such as water tanks, bridges, communication towers, chimneys etc., shall be called non-building structures. When used in conjunction with the word building(s), the word structure(s) shall mean non-building structures, e.g. 'buildings and structures' or 'buildings or structures'. Otherwise the word 'structures' shall include both buildings and non-building structures.",
+      "lists": []
+    },
+    "1.2.3": {
+      "id": "1.2.3",
+      "title": "Building and Structure Occupancy Categories",
+      "children": [],
+      "tables": [
+        {
+          "table_id": "6.1.1",
+          "caption": "Table 6.1.1: Occupancy Category of Buildings and other Structures for Flood, Surge, Wind and Earthquake Loads."
+        }
+      ],
+      "figures": [],
+      "equations": [],
+      "text": "Buildings and other structures shall be classified, based on the nature of occupancy, according to Table 6.1.1 for the purposes of applying flood, surge, wind and earthquake provisions. The occupancy categories range from I to IV, where Occupancy Category I represents buildings and other structures with a low hazard to human life in the event of failure and Occupancy Category IV represents essential facilities. Each building or other structure shall be assigned to the highest applicable occupancy category or categories. Assignment of the same structure to multiple occupancy categories based on use and the type of load condition being evaluated (e.g., wind or seismic) shall be permissible.\nWhen buildings or other structures have multiple uses (occupancies), the relationship between the uses of various parts of the building or other structure and the independence of the structural systems for those various parts shall be examined. The classification for each independent structural system of a multiple-use building or other structure shall be that of the highest usage group in any part of the building or other structure that is dependent on that basic structural system.",
+      "lists": []
+    },
+    "1.2.4": {
+      "id": "1.2.4",
+      "title": "Safety",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Buildings, structures and components thereof, shall be designed and constructed to support all loads, including dead loads, without exceeding the allowable stresses or specified strengths (under applicable factored loads) for the materials of construction in the structural members and connections.",
+      "lists": []
+    },
+    "1.2.5": {
+      "id": "1.2.5",
+      "title": "Serviceability",
+      "children": [],
+      "tables": [
+        {
+          "table_id": "6.1.2",
+          "caption": "Table 6.1.2: Deflection Limits a, b, c, h (Except earthquake load)"
+        }
+      ],
+      "figures": [],
+      "equations": [],
+      "text": "Structural framing systems and components shall be designed with adequate stiffness to have deflections, vibration, or any other deformations within the serviceability limit of building or structure. The deflections of structural members shall not exceed the more restrictive of the limitations provided in Chapters 2 through 13 or that permitted by Table 6.1.2 or the notes that follow. For wind and earthquake loading, story drift and sway shall be limited in accordance with the provisions of Sec 1.5.6. In checking the serviceability, the load combinations and provisions of Sec 2.7.5 shall be followed.\nWhere, GLYPH<19> , GLYPH<18> , GLYPH<23> and GLYPH<3> stands for span of the member under consideration, live load, wind load and dead load respectively.\nNotes:",
+      "lists": [
+        {
+          "items": [
+            {
+              "marker": "a.",
+              "text": "For structural roofing and siding made of formed metal sheets, the total load deflection shall not exceed GLYPH<19> /60 . For secondary roof structural members supporting formed metal roofing, the live load deflection shall not exceed GLYPH<19> /150 . For secondary wall members supporting formed metal siding, the design wind load deflection shall not exceed GLYPH<19> /90 . For roofs, this exception only applies when the metal sheets have no roof covering.",
+              "children": []
+            },
+            {
+              "marker": "b.",
+              "text": "Interior partitions not exceeding 2 m in height and flexible, folding and portable partitions are not governed by the provisions of this Section.",
+              "children": []
+            },
+            {
+              "marker": "c.",
+              "text": "For cantilever members, GLYPH<19> shall be taken as twice the length of the cantilever.",
+              "children": []
+            },
+            {
+              "marker": "d.",
+              "text": "For wood structural members having a moisture content of less than 16% at time of installation and used under dry conditions, the deflection resulting from GLYPH<18> +0.5GLYPH<3> is permitted to be substituted for the deflection resulting from GLYPH<18> +GLYPH<3> .",
+              "children": []
+            },
+            {
+              "marker": "e.",
+              "text": "The above deflections do not ensure against ponding. Roofs that do not have sufficient slope or camber to assure adequate drainage shall be investigated for ponding. See Sec 1.6.5 for rain and ponding requirements.",
+              "children": []
+            },
+            {
+              "marker": "f.",
+              "text": "The wind load is permitted to be taken as 0.7 times the 'component and cladding' loads for the purpose of determining deflection limits herein.",
+              "children": []
+            },
+            {
+              "marker": "g.",
+              "text": "Deflection due to dead load shall include both instantaneous and long term effects.",
+              "children": []
+            },
+            {
+              "marker": "h.",
+              "text": "For aluminum structural members or aluminum panels used in skylights and sloped glazing framing, roofs or walls of sunroom additions or patio covers, not supporting edge of glass or aluminum sandwich panels, the total load deflection shall not exceed GLYPH<19> /60 . For continuous aluminum structural members supporting edge of glass, the total load deflection shall not exceed GLYPH<19> /175 for each glass lite or GLYPH<19> /60 for the entire length of the member, whichever is more stringent. For aluminum sandwich panels used in roofs or walls of sunroom additions or patio covers, the total load deflection shall not exceed GLYPH<19> /120 .",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "1.2.6": {
+      "id": "1.2.6",
+      "title": "Rationality",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Structural systems and components thereof shall be analyzed, designed and constructed based on rational methods which shall include, but not be limited to the provisions of Sec 1.2.7.",
+      "lists": []
+    },
+    "1.2.7": {
+      "id": "1.2.7",
+      "title": "Analysis",
+      "children": [
+        "1.2.7.1",
+        "1.2.7.2",
+        "1.2.7.3"
+      ],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Analysis of the structural systems shall be made for determining the load effects on the resisting elements and connections, based on well-established principles of mechanics taking equilibrium, geometric compatibility and both short and long term properties of the construction materials into account and incorporating the following:",
+      "lists": []
+    },
+    "1.2.7.1": {
+      "id": "1.2.7.1",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Mathematical model\nA mathematical model of the physical structure shall represent the spatial distribution of stiffness and other properties of the structure which is adequate to provide a complete load path capable of transferring all loads and forces from their points of origin to the load-resisting elements for obtaining various load effects. For dynamic analysis, mathematical model shall also incorporate the appropriately distributed mass and damping properties of the structure adequate for the determination of the significant features of its dynamic response. All buildings and structures shall be thus analyzed preferably using a three dimensional computerized model incorporating these features of mathematical model. It is essential to use three dimensional computer model to represent a structure having irregular plan configuration as mentioned in Sec 1.3.4.2 and having rigid or semirigid floor and roof diaphragms. Requirements for two-dimensional model and three dimensional models for earthquake analysis are described in Sections 2.5.11 to 2.5.14.",
+      "lists": []
+    },
+    "1.2.7.2": {
+      "id": "1.2.7.2",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Loads and forces\nAll prescribed loads and forces to be supported by the structural systems shall be determined in accordance with the applicable provisions of this Chapter and Chapter 2. Loads shall be applied on the mathematical model specified in Sec. 1.2.7.1 at appropriate spatial locations and along desired directions.",
+      "lists": []
+    },
+    "1.2.7.3": {
+      "id": "1.2.7.3",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Soil-structure interaction\nSoil-structure interaction effects, where required, shall be included in the analysis by appropriately including the properly substantiated properties of soil into the mathematical model specified in Sec. 1.2.7.1 above.",
+      "lists": []
+    },
+    "1.2.8": {
+      "id": "1.2.8",
+      "title": "Distribution of Horizontal Shear",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "The total lateral force shall be distributed to the various elements of the lateral forceresisting system in proportion to their rigidities considering the rigidity of the horizontal bracing systems or diaphragms.",
+      "lists": []
+    },
+    "1.2.9": {
+      "id": "1.2.9",
+      "title": "Horizontal Torsional  Moments",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Structural systems and components shall be designed to sustain additional forces resulting from torsion due to eccentricity between the centre of application of the lateral forces and the centre of rigidity of the lateral force resisting system. Forces shall not be decreased due to torsional effects. For accidental torsion effects on seismic forces, requirements shall conform to Sec 2.5.7.6.",
+      "lists": []
+    },
+    "1.2.10": {
+      "id": "1.2.10",
+      "title": "Stability Against Overturning and Sliding",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Every building or structure shall be designed to resist the overturning and sliding effects caused by the lateral forces specified in this Chapter.",
+      "lists": []
+    },
+    "1.2.11": {
+      "id": "1.2.11",
+      "title": "Anchorage",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Anchorage of the roof to wall and columns, and of walls and columns to foundations, shall be provided to resist the uplift and sliding forces resulting from the application of the prescribed loads. Additional requirements for masonry or concrete walls shall be those given in Sec 1.7.3.6.",
+      "lists": []
+    },
+    "1.2.12": {
+      "id": "1.2.12",
+      "title": "General Structural Integrity",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Buildings and structural systems shall possess general structural integrity that is the ability to sustain local damage caused due to misuse or accidental overloading, with the structure as a whole remaining stable and not being damaged to an extent disproportionate to the original local damage.",
+      "lists": []
+    },
+    "1.2.13": {
+      "id": "1.2.13",
+      "title": "Proportioning of Structural Elements",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Structural elements, components and connections shall be proportioned and detailed based on the design methods provided in the subsequent Chapters for various materials of construction, such as reinforced concrete, masonry, steel etc. to resist various load effects obtained from a rational analysis of the structural system.",
+      "lists": []
+    },
+    "1.2.14": {
+      "id": "1.2.14",
+      "title": "Walls and Framing",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Walls and structural framing shall be erected true to plumb in accordance with the design. Interior walls, permanent partitions and temporary partitions exceeding 1.8 m of height shall be designed to resist all loads to which they are subjected. If not otherwise specified elsewhere in this Code, walls shall be designed for a minimum load of 0.25 kN/m 2 applied perpendicular to the wall surfaces. The deflection of such walls under a load of 0.25 kN/m 2 shall not exceed -./0 of the span for walls with brittle finishes and --.0 of the span for walls with flexible finishes. However, flexible, folding or portable partitions shall not be required to meet the above load and deflection criteria, but shall be anchored to the supporting structure.",
+      "lists": []
+    },
+    "1.2.15": {
+      "id": "1.2.15",
+      "title": "Additions to Existing Structures",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "When an existing building or structure is extended or otherwise altered, all portions thereof affected by such cause shall be strengthened, if necessary, to comply with the safety and serviceability requirements provided in Sections 1.2.4 and 1.2.5 respectively.",
+      "lists": []
+    },
+    "1.2.16": {
+      "id": "1.2.16",
+      "title": "Phased Construction",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "When a building or structure is planned or anticipated to undergo phased construction, structural members therein shall be investigated and designed for any additional stresses arising due to such construction.",
+      "lists": []
+    },
+    "1.2.17": {
+      "id": "1.2.17",
+      "title": "Load Combinations and Stress Increase",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Every building, structure, foundation or components thereof shall be designed to sustain, within the allowable stress or specified strength (under factored load), the most unfavourable effects resulting from various combinations of loads specified in Sec 2.7. Except otherwise permitted or restricted by any other Sections of this Code, maximum increase in the allowable stress shall be 33% when allowable or working stress method of design is followed. For soil stresses due to foundation loads, load combinations and stress increase specified in Sec 2.7.2 for allowable stress design method shall be used.",
+      "lists": []
+    },
+    "1.3": {
+      "id": "1.3",
+      "title": "Structural Systems",
+      "children": [
+        "1.3.1",
+        "1.3.2",
+        "1.3.3",
+        "1.3.4"
+      ],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "",
+      "lists": []
+    },
+    "1.3.1": {
+      "id": "1.3.1",
+      "title": "General",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Every structure shall have one of the basic structural systems specified in Sec 1.3.2 or a combination thereof. The structural configuration shall be as specified in Sec 1.3.4 with the limitations imposed in Sec 2.5.5.4.",
+      "lists": []
+    },
+    "1.3.2": {
+      "id": "1.3.2",
+      "title": "Basic Structural Systems",
+      "children": [
+        "1.3.2.1",
+        "1.3.2.2",
+        "1.3.2.3",
+        "1.3.2.4",
+        "1.3.2.5",
+        "1.3.2.6"
+      ],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Structural systems for buildings and other structures shall be designated as one of the types A to G listed in Table 6.1.3. Each type is again classified as shown in the Table by the types of vertical elements used to resist lateral forces. A brief description of different structural systems are presented in following sub-sections.",
+      "lists": []
+    },
+    "1.3.2.1": {
+      "id": "1.3.2.1",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Bearing wall system\nA structural system having bearing walls/bracing systems without a complete vertical load carrying frame to support gravity loads. Resistance to lateral loads is provided by shear walls or braced frames.",
+      "lists": []
+    },
+    "1.3.2.2": {
+      "id": "1.3.2.2",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Building frame system\nA structural system with an essentially complete space frame providing support for gravity loads. Resistance to lateral loads is provided by shear walls or braced frames separately.",
+      "lists": []
+    },
+    "1.3.2.3": {
+      "id": "1.3.2.3",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Moment resisting frame system\nA structural system with an essentially complete space frame providing support for gravity loads. Moment resisting frames also provide resistance to lateral load primarily by flexural action of members, and may be classified as one of the following types:\nThe framing system, IMF and SMF shall have special detailing to provide ductile behaviour conforming to the provisions of Sections 8.3 and 10.20 of Part 6 for concrete and steel structures respectively. OMF need not conform to these special ductility requirements of Chapter 8 or 10.\nTable 6.1.3: Basic Structural Systems",
+      "lists": [
+        {
+          "items": [
+            {
+              "marker": "(a)",
+              "text": "Special Moment Frames (SMF)",
+              "children": []
+            },
+            {
+              "marker": "(b)",
+              "text": "Intermediate Moment Frames (IMF)",
+              "children": []
+            },
+            {
+              "marker": "(c)",
+              "text": "Ordinary Moment Frames (OMF).",
+              "children": []
+            }
+          ]
+        },
+        {
+          "items": [
+            {
+              "marker": "A.",
+              "text": "BEARING WALL SYSTEMS (no frame)",
+              "children": [
+                {
+                  "marker": "1.",
+                  "text": "Special reinforced concrete shear walls",
+                  "children": []
+                },
+                {
+                  "marker": "2.",
+                  "text": "Ordinary reinforced concrete shear walls",
+                  "children": []
+                },
+                {
+                  "marker": "3.",
+                  "text": "Ordinary reinforced masonry shear walls",
+                  "children": []
+                },
+                {
+                  "marker": "4.",
+                  "text": "Ordinary plain masonry shear walls",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "marker": "B.",
+              "text": "BUILDING FRAME SYSTEMS (with bracing or shear wall)",
+              "children": [
+                {
+                  "marker": "1.",
+                  "text": "Steel eccentrically braced frames, moment resisting connections at columns away from links",
+                  "children": []
+                },
+                {
+                  "marker": "2.",
+                  "text": "Steel eccentrically braced frames, non-moment-resisting, connections at columns away from links",
+                  "children": []
+                },
+                {
+                  "marker": "3.",
+                  "text": "Special steel concentrically braced frames",
+                  "children": []
+                },
+                {
+                  "marker": "4.",
+                  "text": "Ordinary steel concentrically braced frames",
+                  "children": []
+                },
+                {
+                  "marker": "5.",
+                  "text": "Special reinforced concrete shear walls",
+                  "children": []
+                },
+                {
+                  "marker": "6.",
+                  "text": "Ordinary reinforced concrete shear walls",
+                  "children": []
+                },
+                {
+                  "marker": "7.",
+                  "text": "Ordinary reinforced masonry shear walls",
+                  "children": []
+                },
+                {
+                  "marker": "8.",
+                  "text": "Ordinary plain masonry shear walls",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "marker": "C.",
+              "text": "MOMENT RESISTING FRAME SYSTEMS (no shear wall)",
+              "children": [
+                {
+                  "marker": "1.",
+                  "text": "Special steel moment frames",
+                  "children": []
+                },
+                {
+                  "marker": "2.",
+                  "text": "Intermediate steel moment frames",
+                  "children": []
+                },
+                {
+                  "marker": "3.",
+                  "text": "Ordinary steel moment frames",
+                  "children": []
+                },
+                {
+                  "marker": "4.",
+                  "text": "Special reinforced concrete moment frames",
+                  "children": []
+                },
+                {
+                  "marker": "5.",
+                  "text": "Intermediate reinforced concrete moment frames",
+                  "children": []
+                },
+                {
+                  "marker": "6.",
+                  "text": "Ordinary reinforced concrete moment frames",
+                  "children": []
+                },
+                {
+                  "marker": "D.",
+                  "text": "DUAL SYSTEMS: SPECIAL MOMENT FRAMES CAPABLE OF RESISTING AT LEAST 25% OF PRESCRIBED SEISMIC FORCES (with bracing or shear wall)",
+                  "children": [
+                    {
+                      "marker": "1.",
+                      "text": "Steel eccentrically braced frames",
+                      "children": []
+                    },
+                    {
+                      "marker": "2.",
+                      "text": "Special steel concentrically braced frames",
+                      "children": []
+                    },
+                    {
+                      "marker": "3.",
+                      "text": "Special reinforced concrete shear walls",
+                      "children": []
+                    },
+                    {
+                      "marker": "4.",
+                      "text": "Ordinary reinforced concrete shear walls",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "marker": "E.",
+                  "text": "DUAL SYSTEMS: INTERMEDIATE MOMENT FRAMES CAPABLE OF RESISTING AT LEAST 25% OF PRESCRIBED SEISMIC FORCES (with bracing or shear wall)",
+                  "children": [
+                    {
+                      "marker": "1.",
+                      "text": "Special steel concentrically braced f rames",
+                      "children": []
+                    },
+                    {
+                      "marker": "2.",
+                      "text": "Special reinforced concrete shear walls",
+                      "children": []
+                    },
+                    {
+                      "marker": "3.",
+                      "text": "Ordinary reinforced masonry shear walls",
+                      "children": []
+                    },
+                    {
+                      "marker": "4.",
+                      "text": "Ordinary reinforced concrete shear walls",
+                      "children": []
+                    },
+                    {
+                      "marker": "F.",
+                      "text": "DUAL SHEAR WALL-FRAME SYSTEM: ORDINARY REINFORCED CONCRETE MOMENT FRAMES AND ORDINARY REINFORCED CONCRETE SHEAR WALLS",
+                      "children": []
+                    },
+                    {
+                      "marker": "G.",
+                      "text": "STEEL SYSTEMS NOT SPECIFICALLY DETAILED FOR SEISMIC RESISTANCE",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "1.3.2.4": {
+      "id": "1.3.2.4",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Dual system\nA structural system having a combination of the following framing systems:\nThe two systems specified in (a) and (b) above shall be designed to resist the total lateral force in proportion to their relative rigidities considering the interaction of the dual system at all levels. However, the moment resisting frames shall be capable of resisting at least 25% of the applicable total seismic lateral force, even when wind or any other lateral force governs the design.",
+      "lists": [
+        {
+          "items": [
+            {
+              "marker": "(a)",
+              "text": "Moment resisting frames (SMF, IMF or steel OMF), and",
+              "children": []
+            },
+            {
+              "marker": "(b)",
+              "text": "Shear walls or braced frames.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "1.3.2.5": {
+      "id": "1.3.2.5",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Special structural system\nA structural system not defined above nor listed in Table 6.1.3 and specially designed to carry the lateral loads, such as tube-in-tube, bundled tube, etc.",
+      "lists": []
+    },
+    "1.3.2.6": {
+      "id": "1.3.2.6",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Non-building structural system\nA structural system used for purposes other than in buildings and conforming to Sections 1.5.4.8, 1.5.4.9, 2.4 and 2.5 of Part 6.",
+      "lists": []
+    },
+    "1.3.3": {
+      "id": "1.3.3",
+      "title": "Combination of Structural Systems",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "When different structural systems of Sec 1.3.2 are combined for incorporation into the same structure, design of the combined seismic force resisting system shall conform to the provisions of Sec 2.5.5.5.",
+      "lists": []
+    },
+    "1.3.4": {
+      "id": "1.3.4",
+      "title": "Structural Configurations",
+      "children": [
+        "1.3.4.1",
+        "1.3.4.2"
+      ],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Based on the structural configuration, each structure shall be designated as a regular or irregular structure as defined below:",
+      "lists": []
+    },
+    "1.3.4.1": {
+      "id": "1.3.4.1",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Regular structures\nRegular structures have no significant physical discontinuities or irregularities in plan or vertical configuration or in their lateral force resisting systems. Typical features causing irregularity are described in Sec 1.3.4.2.",
+      "lists": []
+    },
+    "1.3.4.2": {
+      "id": "1.3.4.2",
+      "title": "",
+      "children": [
+        "1.3.4.2.1",
+        "1.3.4.2.2"
+      ],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Irregular structures\nIrregular structures have either vertical irregularity or plan irregularity or both in their structural configurations or lateral force resisting systems.",
+      "lists": []
+    },
+    "1.3.4.2.1": {
+      "id": "1.3.4.2.1",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Vertical irregularity\nStructures having one or more of the irregular features listed in Table 6.1.4 shall be designated as having a vertical irregularity.",
+      "lists": []
+    },
+    "1.3.4.2.2": {
+      "id": "1.3.4.2.2",
+      "title": "",
+      "children": [],
+      "tables": [
+        {
+          "table_id": "6.1.4",
+          "caption": "Table 6.1.4: Vertical Irregularities of Structures"
+        },
+        {
+          "table_id": "6.1.5",
+          "caption": "Table 6.1.5: Plan (Horizontal) Plan Irregularity"
+        }
+      ],
+      "figures": [],
+      "equations": [],
+      "text": "Plan irregularity\nStructures having one or more of the irregular features listed in Table 6.1.5 shall be designated as having a plan irregularity.",
+      "lists": []
+    },
+    "1.4": {
+      "id": "1.4",
+      "title": "Design For Gravity Loads",
+      "children": [
+        "1.4.1",
+        "1.4.2",
+        "1.4.3",
+        "1.4.4",
+        "1.4.5",
+        "1.4.6",
+        "1.4.7",
+        "1.4.8"
+      ],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "",
+      "lists": []
+    },
+    "1.4.1": {
+      "id": "1.4.1",
+      "title": "General",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Design of buildings and components thereof for gravity loads shall conform to the requirements of this Section. Gravity loads, such as dead load and live loads applied at the floors or roof of a building shall be determined in accordance with the provisions of Chapter 2 of this Part.",
+      "lists": []
+    },
+    "1.4.2": {
+      "id": "1.4.2",
+      "title": "Floor Design",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Floor slabs and decks shall be designed for the full dead and live loads as specified in Sections 2.2 and 2.3 respectively. Floor supporting elements such as beams, joists, columns etc. shall be designed for the full dead load and the appropriately reduced live loads set forth by the provisions of Sec 2.3.13. Design of floor elements shall also conform to the following provisions:",
+      "lists": [
+        {
+          "items": [
+            {
+              "marker": "(a)",
+              "text": "Uniformly Distributed Loads: Where uniform floor loads are involved, consideration may be limited to full dead load on all spans in combination with full live load on adjacent spans and on alternate spans to determine the most unfavourable effect of stresses in the member concerned.",
+              "children": []
+            },
+            {
+              "marker": "(b)",
+              "text": "Concentrated Loads: Provision shall be made in designing floors for a concentrated load as set forth in Sec 2.3.5 applied at a location wherever this load acting upon an otherwise unloaded floor would produce stresses greater than those caused by the uniform load required therefore.",
+              "children": []
+            },
+            {
+              "marker": "(c)",
+              "text": "Partition Loads: Loads due to permanent partitions shall be treated as a dead load applied over the floor as a uniform line load having intensity equal to the weight per metre run of the partitions as specified in Sec 2.2.5. Loads for light movable partitions shall be determined in accordance with the provisions of Sec 2.3.6.",
+              "children": []
+            },
+            {
+              "marker": "(d)",
+              "text": "Design of Members: Floor members, such as slabs or decks, beams, joists etc. shall be designed to sustain the worst effect of the dead plus live loads or any other load combinations as specified in Sec 2.7. Where floors are used as diaphragms to transmit lateral loads between various resisting elements, those loads shall be determined following the provisions of Sec 1.7.3.8. Detailed design of the floor elements shall be performed using the procedures provided in Chapters 4 to 13 of Part 6 for various construction materials.",
+              "children": []
+            },
+            {
+              "marker": "(e)",
+              "text": "Floors and associated structural members shall have adequate strength and stiffness to prevent undesirable vibration due to human activity (e.g walking, dancing, jumping, sporting activities etc.) or vibration caused by machines which causes discomfort to the occupants and which is detrimental to the safety, integrity and durability of the structure.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "1.4.3": {
+      "id": "1.4.3",
+      "title": "Roof Design",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Roofs and their supporting elements shall be designed to sustain, within their allowable stresses or specified strength limits, all dead loads and live loads as set out by the provisions of Sections 2.2 and 2.3 respectively. Design of roof members shall also conform to the following requirements:",
+      "lists": [
+        {
+          "items": [
+            {
+              "marker": "(a)",
+              "text": "Application of Loads: When uniformly distributed loads are considered for the design of continuous structural members, load including full dead loads on all spans in combination with full live loads on adjacent spans and on alternate span, shall be investigated to determine the worst effects of loading. Concentrated roof live loads and special roof live loads, where applicable, shall also be considered in design.",
+              "children": []
+            },
+            {
+              "marker": "(b)",
+              "text": "Unbalanced Loading: Effects due to unbalanced loads shall be considered in the design of roof members and connections where such loading will result in more critical stresses. Trusses and arches shall be designed to resist the stresses caused by uniform live loads on one half of the span if such loading results in reverse stresses, or stresses greater in any portion than the stresses produced by this unit live load when applied upon the entire span.",
+              "children": []
+            },
+            {
+              "marker": "(c)",
+              "text": "Rain Loads: Roofs, where ponding of rain water is anticipated due to blockage of roof drains, excessive deflection or insufficient slopes, shall be designed to support such loads. Loads on roofs due to rain shall be determined in accordance with the provisions of Sec 2.6.2. In addition to the dead load of the roof, either the roof live load or the rain load, whichever is of higher intensity, shall be considered in design.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "1.4.4": {
+      "id": "1.4.4",
+      "title": "Reduction of Live Loads",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "The design live loads specified in Sec 2.3, may be reduced to appropriate values as permitted by the provisions of Sections 2.3.13 and 2.3.14.",
+      "lists": []
+    },
+    "1.4.5": {
+      "id": "1.4.5",
+      "title": "Posting of Live Loads",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "In every building, of which the floors or parts thereof have a design live load of 3.5 kN/m 2 or more, and which are used as library stack room, file room, parking garage, machine or plant room, or used for industrial or storage purposes, the owner of the building shall ensure that the live loads for which such space has been designed, are posted on durable metal plates as shown in Figure 6.1.1, securely affixed in a conspicuous place in each space to which they relate. If such plates are lost, removed, or defaced, owner shall be responsible to have them replaced.",
+      "lists": []
+    },
+    "1.4.6": {
+      "id": "1.4.6",
+      "title": "Restrictions on Loading",
+      "children": [],
+      "tables": [],
+      "figures": [
+        {
+          "figure_id": "6.1.1",
+          "caption": "Figure 6.1.1 Sample live load sign"
+        }
+      ],
+      "equations": [],
+      "text": "The building owner shall ensure that the live load for which a floor or roof is or has been designed, will not be exceeded during its use.\nNotes:(1) Minimum dimension of metal sign plate shall be 0.25 m",
+      "lists": [
+        {
+          "items": [
+            {
+              "marker": "(2)",
+              "text": "Minimumsize of lettering shallbe 25mm",
+              "children": []
+            },
+            {
+              "marker": "(3)",
+              "text": "Minimum distance of the bottom of plate from floor top shall be 1.5 m",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "1.4.7": {
+      "id": "1.4.7",
+      "title": "Special Considerations",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "In the absence of actual dead and live load data, the minimum values of these loads shall be those specified in Sections 2.2 and 2.3. In addition, special consideration shall be given to the following aspects of loading and due allowances shall be made in design if occurrence of such loading is anticipated after construction of a building:",
+      "lists": [
+        {
+          "items": [
+            {
+              "marker": "(a)",
+              "text": "Increase in Dead Load: Actual thickness of the concrete slabs or other members may become larger than the designed thickness due to movements or deflections of the formwork during construction.",
+              "children": []
+            },
+            {
+              "marker": "(b)",
+              "text": "Future Installations: Changes in the numbers, types and positions of partitions and other installations may increase actual load on the floors of a building.",
+              "children": []
+            },
+            {
+              "marker": "(c)",
+              "text": "Occupancy Changes: Increase in live loads due to changes of occupancy involving loads heavier than that being designed for.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "3076": {
+      "id": "3076",
+      "title": "evsjv‡`k †M‡RU, AwZwi³, †deªæqvwi 11, 2021",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "",
+      "lists": []
+    },
+    "1.4.8": {
+      "id": "1.4.8",
+      "title": "Deflection and Camber",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Structural systems and members thereof shall be designed to have adequate stiffness to limit deflections. The deflections of structural members shall not exceed the more restrictive of the limitations of Chapters 2 to 13 of this Part or that permitted by Table 6.1.2.or provisions of Sec 1.2.5 of this Chapter. In calculating deflections due to gravity loads, long term effects (e.g. creep, shrinkage or stress relaxation) should also be considered.",
+      "lists": []
+    },
+    "1.5": {
+      "id": "1.5",
+      "title": "Design For Lateral Loads",
+      "children": [
+        "1.5.1",
+        "1.5.2",
+        "1.5.3",
+        "1.5.4",
+        "1.5.5",
+        "1.5.6",
+        "1.5.7",
+        "1.5.8",
+        "1.5.9"
+      ],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "",
+      "lists": []
+    },
+    "1.5.1": {
+      "id": "1.5.1",
+      "title": "General",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Every building, structure or portions thereof shall be designed to resist the lateral load effects, such as those due to wind or earthquake forces, in compliance with the requirements prescribed in this Section.",
+      "lists": []
+    },
+    "1.5.2": {
+      "id": "1.5.2",
+      "title": "Selection of Lateral Force for Design",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Any of the lateral loads prescribed in Chapter 2, considered either alone or in combination with other forces, whichever produces the most critical effect, shall govern the design. However, the structural detailing requirements shall comply with those prescribed in Sec 1.7 of this Chapter. When a dual structural system is used to resist lateral loads, design shall also conform to Sec 1.3.2.4 of this Chapter.",
+      "lists": []
+    },
+    "1.5.3": {
+      "id": "1.5.3",
+      "title": "Design for Wind Load",
+      "children": [
+        "1.5.3.1",
+        "1.5.3.2",
+        "1.5.3.3",
+        "1.5.3.4",
+        "1.5.3.5",
+        "1.5.3.6",
+        "1.5.3.7",
+        "1.5.3.8"
+      ],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Design of buildings and their components to resist wind induced forces shall comply with the following requirements:",
+      "lists": []
+    },
+    "1.5.3.1": {
+      "id": "1.5.3.1",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Direction of wind\nStructural design for wind forces shall be based on assumption that wind may blow from any horizontal direction.",
+      "lists": []
+    },
+    "1.5.3.2": {
+      "id": "1.5.3.2",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Design considerations\nDesign wind load on the primary framing systems and components of a building or structure shall be determined on the basis of the procedures provided in Sec 2.4 Chapter 2 Part 6 considering the basic wind speed, shape and size of the building, and the terrain exposure condition of the site. For slender buildings and structures, dynamic response characteristics, such as fundamental natural frequency, shall be determined to estimate gust response coefficient. Load effects, such as forces, moments, and deflections etc. on various components of building due to wind shall be determined from static analysis of the structure as specified in Sec 1.2.7.1 of this Chapter.",
+      "lists": []
+    },
+    "1.5.3.3": {
+      "id": "1.5.3.3",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Shielding effect\nReductions in wind pressure on buildings and structures due to apparent direct shielding effects of the up wind obstructions, such as man-made constructions or natural terrain features, shall not be permitted.",
+      "lists": []
+    },
+    "1.5.3.4": {
+      "id": "1.5.3.4",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Dynamic effects\nDynamic wind forces such as that from along-wind vibrations caused by the dynamic wind-structure interaction effects, as set forth by the provisions of Sec 2.4.8 Chapter 2 Part 6, shall be considered in the design of regular shaped slender buildings. For other dynamic effects such as cross-wind or torsional responses as may be experienced by buildings or structures having unusual geometrical shapes (i.e. vertical or plan irregularities listed in Tables 6.1.4 and 6.1.5), response characteristics, or site locations, structural design shall be made based on the information obtained either from other reliable references or from wind-tunnel test specified in Sec 1.5.3.5 below, complying with the other requirements of this Section.",
+      "lists": []
+    },
+    "1.5.3.5": {
+      "id": "1.5.3.5",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Wind tunnel test\nProperly conducted wind-tunnel tests shall be required for those buildings or structures having unusual geometric shapes, response characteristics, or site locations for which cross-wind response such as vortex shedding, galloping etc. warrant special consideration, and for which no reliable literature for the determination of such effects is available. This test is also recommended for those buildings or structures for which more accurate wind-loading information is desired than those given in this Section and in Sec 2.4. Tests for the determination of mean and fluctuating components of forces and pressures shall be considered to be properly conducted only if the following requirements are satisfied:\nTests for the purpose of determining the dynamic response of a structure shall be considered to be properly conducted only if requirements (a) through (e) above are fulfilled and, in addition, the structural model is scaled with due consideration to length, distribution of mass, stiffness and damping of the structure.",
+      "lists": [
+        {
+          "items": [
+            {
+              "marker": "(a)",
+              "text": "The natural wind has been modelled to account for the variation of wind speed with height,",
+              "children": []
+            },
+            {
+              "marker": "(b)",
+              "text": "The intensity of the longitudinal components of turbulence has been taken into consideration in the model,",
+              "children": []
+            },
+            {
+              "marker": "(c)",
+              "text": "The geometric scale of the structural model is not more than three times the geometric scale of the longitudinal component of turbulence,",
+              "children": []
+            },
+            {
+              "marker": "(d)",
+              "text": "The response characteristics of the wind tunnel instrumentation are consistent with the measurements to be made, and",
+              "children": []
+            },
+            {
+              "marker": "(e)",
+              "text": "The Reynolds number is taken into consideration when determining forces and pressures on the structural elements.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "1.5.3.6": {
+      "id": "1.5.3.6",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Wind loads during construction\nBuildings, structures and portions thereof under construction, and construction structures such as formwork, staging etc. shall be provided with adequate temporary bracings or other lateral supports to resist the wind load on them during the erection and construction phase.",
+      "lists": []
+    },
+    "1.5.3.7": {
+      "id": "1.5.3.7",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Masonry construction in high-wind regions\nDesign and construction of masonry structures in high-wind regions shall conform to the requirements of relevant Sections of Chapter 7 Part 6.",
+      "lists": []
+    },
+    "1.5.3.8": {
+      "id": "1.5.3.8",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Height limits\nUnless otherwise specified elsewhere in this Code, no height limits shall be imposed, in general, on the design and construction of buildings or structures to resist wind induced forces.",
+      "lists": []
+    },
+    "1.5.4": {
+      "id": "1.5.4",
+      "title": "Design for Earthquake Forces",
+      "children": [
+        "1.5.4.1",
+        "1.5.4.2",
+        "1.5.4.3",
+        "1.5.4.4",
+        "1.5.4.5",
+        "1.5.4.6",
+        "1.5.4.7",
+        "1.5.4.8",
+        "1.5.4.9"
+      ],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Design of structures and components thereof to resist the effects of earthquake forces shall comply with the requirements of this Section.",
+      "lists": []
+    },
+    "1.5.4.1": {
+      "id": "1.5.4.1",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Basic design consideration\nFor the purpose of earthquake resistant design, each structure shall be placed in one of the seismic zones as given in Sec 2.5.4.2 and assigned with a structure importance category as set forth in Sec 2.5.5.1. The seismic forces on structures shall be determined considering seismic zoning, site soil characteristics, structure importance, structural systems and configurations, height and dynamic properties of the structure as provided in Sec 2.5. The structural system and configuration types for a building or a structure shall be determined in accordance with the provisions of Sec 2.5.5.4. Other seismic design requirements shall be those specified in this Section.",
+      "lists": []
+    },
+    "1.5.4.2": {
+      "id": "1.5.4.2",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Requirements for directional effects\nThe directions of application of seismic forces used in the design shall be those which will produce the most critical load effects. Earthquake forces act in both principal directions of the building simultaneously. Design provisions for considering earthquake component in orthogonal directions have been provided in Sec 2.5.13.1.",
+      "lists": []
+    },
+    "1.5.4.3": {
+      "id": "1.5.4.3",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Structural system and configuration requirements\nSeismic design provisions impose the following limitations on the use of structural systems and configurations:",
+      "lists": [
+        {
+          "items": [
+            {
+              "marker": "(a)",
+              "text": "The structural system used shall satisfy requirements of the Seismic Design Category (defined in Sec. 2.5.5.2) and height limitations given in Sec 2.5.5.4.",
+              "children": []
+            },
+            {
+              "marker": "(b)",
+              "text": "Structures assigned to Seismic Design Category D having vertical irregularity Type Vb of Table 6.1.4 shall not be permitted. Structures with such vertical irregularity may be permitted for Seismic Design Category B or C but shall not be over two stories or 9 m in height.",
+              "children": []
+            },
+            {
+              "marker": "(c)",
+              "text": "Structures having irregular features described in Table 1.3.2 or Table 1.3.3 shall be designed in compliance with the additional requirements of the Sections referenced in these Tables.",
+              "children": []
+            },
+            {
+              "marker": "(d)",
+              "text": "Special Structural Systems defined in Sec 1.3.2.5 may be permitted if it can be demonstrated by analytical and test data to be equivalent, with regard to dynamic characteristics, lateral force resistance and energy absorption, to one of the structural systems listed in Table 6.2.19, for obtaining an equivalent R and Cd value for seismic design.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "1.5.4.4": {
+      "id": "1.5.4.4",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Methods of analysis\nEarthquake forces and their effects on various structural elements shall be determined by using either a static analysis method or a dynamic analysis method whichever is applicable based on the limitations set forth in Sections 2.5.5 to 2.5.12 and conforming to Sec 1.2.7.",
+      "lists": []
+    },
+    "1.5.4.5": {
+      "id": "1.5.4.5",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Minimum design seismic force\nThe minimum design seismic forces shall be those determined in accordance with the Sections 2.5.5 to 2.5.14 whichever is applicable.",
+      "lists": []
+    },
+    "1.5.4.6": {
+      "id": "1.5.4.6",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Distribution of seismic forces\nThe total lateral seismic forces and moments shall be distributed among various resisting elements at any level and along the vertical direction of a building or structure in accordance with the provisions of Sections 2.5.5 to 2.5.12 as appropriate.",
+      "lists": []
+    },
+    "1.5.4.7": {
+      "id": "1.5.4.7",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Vertical components of seismic forces\nDesign provisions for considering vertical component of earthquake ground motion is given in Sec 2.5.13.2",
+      "lists": []
+    },
+    "1.5.4.8": {
+      "id": "1.5.4.8",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Height limits\nHeight limitations for different structural systems are given in Table 6.2.19 of Sec 2.5.3.4 Chapter 2 Part 6 of this Code as a function of seismic design category.",
+      "lists": []
+    },
+    "1.5.4.9": {
+      "id": "1.5.4.9",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Non-building structures\nSeismic lateral force on non-building structures shall be determined in accordance with the provisions of ASCE 7: Minimum Design Loads for Buildings and other Structures. However, provisions of ASCE 7 may be simplified, consistent with the provisions of Sec 2.5 Part 6 of this Code. Other design requirements shall be those provided in this Chapter.",
+      "lists": []
+    },
+    "1.5.5": {
+      "id": "1.5.5",
+      "title": "Overturning Requirements",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Every structure shall be designed to resist the overturning effects caused by wind or earthquake forces specified in Sections 2.4 and 2.5 respectively as well other lateral forces like earth pressure, tidal surge etc. The overturning moment Mx at any storey levelx of a building shall be determined as:\nM _ { x } = \\sum _ { i = 1 } ^ { n } F _ { i } ( h _ { i } - h _ { x } )\nWhere,\nℎ GLYPH<6> , ℎ GLYPH<2> , ℎ GLYPH<13> = Height in metres at levelGLYPH<11> , -x or -n respectively.\nGLYPH<5> GLYPH<6> = Lateral force applied at levelGLYPH<11> , GLYPH<11> = 1 to GLYPH<15> .\nAt any level, the increment of overturning moment shall be distributed to the various resisting elements in the same manner as the distribution of horizontal shear prescribed in Sec 2.5.7.5. Overturning effects on every element shall be carried down to the foundation level.",
+      "lists": []
+    },
+    "1.5.6": {
+      "id": "1.5.6",
+      "title": "Drift and Building Separation",
+      "children": [
+        "1.5.6.1",
+        "1.5.6.2"
+      ],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "",
+      "lists": []
+    },
+    "1.5.6.1": {
+      "id": "1.5.6.1",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Storey drift limitation\nStorey drift is the horizontal displacement of one level of a building or structure relative to the level above or below due to the design gravity (dead and live loads) or lateral forces (e.g. wind and earthquake loads). Calculated storey drift shall include both translational and torsional deflections and conform to the following requirements:\n∆ ≤ 0.005 ℎ for GLYPH<22> < 0.7 second\n∆ ≤ 0.004 ℎ for GLYPH<22> ≥ 0.7 second\n∆ ≤ 0.0025 ℎ for unreinforced masonry structures.\nWhere, ℎ = height of floor. The period GLYPH<22> used in this calculation shall be the same as that used for determining the base shear in Sec 2.5.7.2.",
+      "lists": [
+        {
+          "items": [
+            {
+              "marker": "(a)",
+              "text": "Storey drift, ∆, for loads other than earthquake loads, shall be limited as follows:",
+              "children": []
+            }
+          ]
+        },
+        {
+          "items": [
+            {
+              "marker": "(b)",
+              "text": "The drift limits set out in (a) above may be exceeded where it can be demonstrated that greater drift can be tolerated by both structural and nonstructural elements without affecting life safety.",
+              "children": []
+            },
+            {
+              "marker": "(c)",
+              "text": "For earthquake loads, the story drift, ∆ shall be limited in accordance with the limits set forth in Sec 2.5.14.1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "1.5.6.2": {
+      "id": "1.5.6.2",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Sway limitation\nThe overall sway (horizontal deflection) at the top level of the building or structure due to wind loading shall not exceed -500 times the total height of the building above ground, in accordance with Sec 2.7.5.",
+      "lists": []
+    },
+    "1.5.7": {
+      "id": "1.5.7",
+      "title": "Building Separation",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "All components of a structure shall be designed and constructed to act as an integral unit unless they are separated structurally by a distance sufficient to avoid contact under the most unfavorable condition of deflections due to lateral loads. For seismic loads, design guidelines are given in Sec 2.5.14.3.",
+      "lists": []
+    },
+    "1.5.8": {
+      "id": "1.5.8",
+      "title": "P-Delta Effects",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "The resulting member forces and moments and the storey drifts induced by P-Delta effects need not be considered when the stability coefficient ( F ) remains within 0.10. This coefficient (described in Sec 2.5.7.9) may be evaluated for any storey as the product of the total vertical dead and live loads above the storey and the lateral drift in that storey divided by the product of the storey shear in that storey and the height of that storey.",
+      "lists": []
+    },
+    "1.5.9": {
+      "id": "1.5.9",
+      "title": "Uplift Effects",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Uplift effects caused due to lateral loads shall be considered in design. When allowable (working) stress method is used for design, dead loads used to reduce uplift shall be multiplied by a factor of 0.85.",
+      "lists": []
+    },
+    "1.6": {
+      "id": "1.6",
+      "title": "Design For Miscellaneous Loads",
+      "children": [
+        "1.6.1",
+        "1.6.2",
+        "1.6.3",
+        "1.6.4",
+        "1.6.5",
+        "1.6.6"
+      ],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "",
+      "lists": []
+    },
+    "1.6.1": {
+      "id": "1.6.1",
+      "title": "General",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Buildings, structures and components thereof, when subject to loads other than dead, live, wind and earthquake loads, shall be designed in accordance with the provisions of this Section. Miscellaneous loads, such as those due to temperature, rain, flood and surge etc. on buildings or structures, shall be determined in accordance with Sec\n2.6. Structural members subject to miscellaneous loads, not specified in Sec 2.6 shall be designed using well established methods given in any reliable references, and complying with the other requirements of this Code.",
+      "lists": []
+    },
+    "1.6.2": {
+      "id": "1.6.2",
+      "title": "Self-Straining Forces",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Self-straining forces such as those arising due to assumed differential settlements of foundations and from restrained dimensional changes due to temperature, moisture, shrinkage, creep, and similar effects, shall be taken into consideration in the design of structural members.",
+      "lists": []
+    },
+    "1.6.3": {
+      "id": "1.6.3",
+      "title": "Stress Reversal and Fatigue",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Structural members and joints shall be investigated and designed against possible stress reversals caused due to various construction loads. Where required, allowance shall be made in the design to account for the effects of fatigue. The allowable stress may be appropriately reduced to account for such effects in the structural members.",
+      "lists": []
+    },
+    "1.6.4": {
+      "id": "1.6.4",
+      "title": "Flood, Tidal/Storm Surge and Tsunami",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Buildings, structures and components thereof shall be designed, constructed and anchored to resist flotation, collapse or any permanent movement due to loads including flood, tidal/Storm surge and tsunami, when applicable. Structural members shall be designed to resist both hydrostatic and significant hydrodynamic loads and effects of buoyancy resulting from flood or surge. Flood and surge loads on buildings and structures shall be determined in accordance with Sec 2.6.3. Load combination including flood and surge loads shall conform to Sec 2.7. Design of foundations to sustain these load effects shall conform to the provisions of Sec 1.8.\nStability against overturning and sliding caused due to wind and flood or surge loads simultaneously shall be investigated, and such effects shall be resisted with a minimum factor of safety of 1.5, considering dead load only.",
+      "lists": []
+    },
+    "1.6.5": {
+      "id": "1.6.5",
+      "title": "Rain Loads",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Roofs of the buildings and structures as well as their other components which may have the capability of retaining rainwater shall be designed for adequate gravity load induced by ponding. Roofs and such other components shall be analysed and designed for load due to ponding caused by accidental blockage of drainage system complying with Sec. 2.6.2.",
+      "lists": []
+    },
+    "1.6.6": {
+      "id": "1.6.6",
+      "title": "Other Loads",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Buildings and structures and their components shall be analyzed and designed for stresses caused by the following effects:\nDesign of buildings and structures shall include loading and stresses caused by the above effects in accordance with the provisions set forth in Chapter 2.",
+      "lists": [
+        {
+          "items": [
+            {
+              "marker": "(a)",
+              "text": "Temperature Effects (Sec 2.6.4).",
+              "children": []
+            },
+            {
+              "marker": "(b)",
+              "text": "Soil and Hydrostatic Pressure (Sec 2.6.5).",
+              "children": []
+            },
+            {
+              "marker": "(c)",
+              "text": "Impacts and Collisions",
+              "children": []
+            },
+            {
+              "marker": "(d)",
+              "text": "Explosions (Sec 2.6.6).",
+              "children": []
+            },
+            {
+              "marker": "(e)",
+              "text": "Fire",
+              "children": []
+            },
+            {
+              "marker": "(f)",
+              "text": "Vertical Forces on Air Raid Shelters (Sec 2.6.7).",
+              "children": []
+            },
+            {
+              "marker": "(g)",
+              "text": "Loads on Helicopter Landing Areas (Sec 2.6.8).",
+              "children": []
+            },
+            {
+              "marker": "(h)",
+              "text": "Erection and Construction Loads (Sec 2.6.9).",
+              "children": []
+            },
+            {
+              "marker": "(i)",
+              "text": "Moving Loads for Crane Movements",
+              "children": []
+            },
+            {
+              "marker": "(j)",
+              "text": "Creep and Shrinkage",
+              "children": []
+            },
+            {
+              "marker": "(k)",
+              "text": "Dynamic Loads due to Vibrations",
+              "children": []
+            },
+            {
+              "marker": "(l)",
+              "text": "Construction Loads",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "id": "1.7",
+      "title": "Detailed Design Requirements",
+      "children": [
+        "1.7.1",
+        "1.7.2",
+        "1.7.3"
+      ],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "",
+      "lists": []
+    },
+    "1.7.1": {
+      "id": "1.7.1",
+      "title": "General",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "All structural framing systems shall comply with the requirements of this Section. Only the elements of the designated lateral force resisting systems can be used to resist design lateral forces specified in Chapter 2. The individual components shall be designed to resist the prescribed forces acting on them. Design of components shall also comply with the specific requirements for the materials contained in Chapters 4 to 13. In addition, such framing systems and components shall comply with the design requirements provided in this Section.",
+      "lists": []
+    },
+    "1.7.2": {
+      "id": "1.7.2",
+      "title": "Structural Framing Systems",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "The basic structural systems are defined in Sec 1.3.2 and shown in Table 6.1.3, and each type is subdivided by the types of framing elements used to resist the lateral forces. The structural system used shall satisfy requirements of seismic design category and height limitations indicated in Table 6.2.19. Special framing requirements are given in the following Sections in addition to those provided in Chapters 4 to 13.",
+      "lists": []
+    },
+    "3084": {
+      "id": "3084",
+      "title": "evsjv‡`k †M‡RU, AwZwi³, †deªæqvwi 11, 2021",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "",
+      "lists": []
+    },
+    "1.7.3": {
+      "id": "1.7.3",
+      "title": "Detailing Requirements for Combinations of  Structural Systems",
+      "children": [
+        "1.7.3.1",
+        "1.7.3.2",
+        "1.7.3.3",
+        "1.7.3.4",
+        "1.7.3.5",
+        "1.7.3.6",
+        "1.7.3.7",
+        "1.7.3.8",
+        "1.7.3.9"
+      ],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "For components common to different structural systems, a more restrictive detailing shall be provided.",
+      "lists": []
+    },
+    "1.7.3.1": {
+      "id": "1.7.3.1",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Connections to resist seismic forces\nConnections which resist prescribed seismic forces shall be designed in accordance with the seismic design requirements provided in Chapters 4 to 13. Detailed sketches for these connections shall be given in the structural drawings.",
+      "lists": []
+    },
+    "1.7.3.2": {
+      "id": "1.7.3.2",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Deformation compatibility\nAll framing elements not required by design to be part of the lateral force resisting system, shall be investigated and shown to be adequate for vertical load carrying capacity when subjected to lateral displacements resulting from the seismic lateral forces. For designs using working stress methods, this capacity may be determined using an allowable stress increase of 30 percent. Geometric non-linear ( P -Delta) effects on such elements shall be accounted for.",
+      "lists": [
+        {
+          "items": [
+            {
+              "marker": "(a)",
+              "text": "Adjoining Rigid Elements : Moment resisting frames may be enclosed or adjoined by more rigid elements which would tend to prevent a space frame from resisting lateral forces where it can be shown that the action or failure of the more rigid elements will not impair the vertical and lateral load resisting ability of the space frame.",
+              "children": []
+            },
+            {
+              "marker": "(b)",
+              "text": "Exterior Elements : Exterior nonbearing, non-shear wall panels or elements which are attached to or enclose the exterior of a structure, shall be designed to resist the forces according to Sec. 2.5.15 of Chapter 2, if seismic forces are present, and shall accommodate movements of the structure resulting from lateral forces or temperature changes. Such elements shall be supported by structural members or by mechanical connections and fasteners joining them to structural members in accordance with the following provisions:",
+              "children": [
+                {
+                  "marker": "(i)",
+                  "text": "Connections and panel joints shall allow for a relative movement between storeys of not less than two times the storey drift caused by wind forces or design seismic forces, or 12 mm, whichever is greater.",
+                  "children": [
+                    {
+                      "marker": "(ii)",
+                      "text": "Connections to permit movement in the plane of the panel for storey drift shall be either sliding connections using slotted or oversized holes, connections which permit movement by bending of steel, or other connections providing equivalent sliding and ductility capacity.",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "marker": "(iii)",
+              "text": "Bodies of connections shall have sufficient ductility and rotation capability to preclude any fracture of the anchoring elements or brittle failures at or near welding.",
+              "children": []
+            },
+            {
+              "marker": "(iv)",
+              "text": "Bodies of the connection shall be designed for 1.33 times the seismic force determined by Sec. 2.5.15 of Chapter 2, or equivalent.",
+              "children": []
+            },
+            {
+              "marker": "(v)",
+              "text": "All fasteners in the connection system, such as bolts, inserts, welds, dowels etc. shall be designed for 4 times the forces determined by Sec. 2.5.15 of Chapter 2 or equivalent.",
+              "children": []
+            },
+            {
+              "marker": "(vi)",
+              "text": "Fasteners embedded in concrete shall be attached to, or hooked around reinforcing steel, or otherwise terminated so as to transfer forces to the reinforcing steel effectively.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "1.7.3.3": {
+      "id": "1.7.3.3",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Ties and continuity\nAll parts of a structure shall be interconnected. These connections shall be capable of transmitting the prescribed lateral force to the lateral force resisting system. Individual members, including those not part of the seismic force-resisting system, shall be provided with adequate strength to resist the shears, axial forces, and moments determined in accordance with this Code. Connections shall develop the strength of the connected members and shall be capable of transmitting the seismic force ( GLYPH<5> G ) induced by the parts being connected.",
+      "lists": []
+    },
+    "1.7.3.4": {
+      "id": "1.7.3.4",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Collector elements\nCollector elements shall be provided which are capable of transferring the lateral forces originating in other portions of the structure to the element providing the resistance to those forces.",
+      "lists": []
+    },
+    "1.7.3.5": {
+      "id": "1.7.3.5",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Concrete frames\nWhen concrete frames are provided by design to be part of the lateral force resisting system, they shall conform to the provisions of Chapter 8 of this Part.",
+      "lists": []
+    },
+    "1.7.3.6": {
+      "id": "1.7.3.6",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Anchorage of concrete and masonry structural walls\nThe concrete and masonry structural walls shall be anchored to supporting construction. The anchorage shall provide a positive direct connection between the wall and floor or roof and shall be capable of resisting the horizontal forces specified in Sections 2.4.11 and 2.5.15, or a minimum force of 4.09 kN/m of wall. Walls shall be designed to resist bending between anchors where the anchor spacing exceeds 1.2 m. In masonry walls of hollow units or cavity walls, anchors shall be embedded in a reinforced grouted structural element of the wall. Deformations of the floor and roof diaphragms shall be considered in the design of the supported walls and the anchorage forces in the diaphragms shall be determined in accordance with Sec 1.7.3.9 below.",
+      "lists": []
+    },
+    "1.7.3.7": {
+      "id": "1.7.3.7",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Boundary members\nSpecially detailed boundary members shall be considered for shear walls and shear wall elements whenever their design is governed by flexure.",
+      "lists": []
+    },
+    "1.7.3.8": {
+      "id": "1.7.3.8",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Floor and roof diaphragms\nDeflection in the plane of the diaphragm shall not exceed the permissible deflection of the attached elements. Permissible deflection shall be that deflection which will permit the attached element to maintain its structural integrity under the individual loading and continue to support the prescribed loads. Design of diaphragms shall also comply with the following requirements.\n Motion of the projecting wings in the same direction.\n Motion of the projecting wings in opposing directions.\nException:\nThis requirement may be deemed to be satisfied if the procedures of Sec 2.5.8 when seismic forces are present, in conjunction with a three dimensional model, have been used to determine the lateral seismic forces for design.",
+      "lists": [
+        {
+          "items": [
+            {
+              "marker": "(a)",
+              "text": "Diaphragm Forces: Diaphragms shall be designed to resist the seismic forces given in Sec 2.5 or for similar non-seismic lateral forces, whichever is greater.",
+              "children": []
+            },
+            {
+              "marker": "(b)",
+              "text": "Diaphragm Ties: Diaphragms supporting concrete or masonry walls shall have continuous ties, or struts between the diaphragm chords to distribute the anchorage forces specified in Sec 1.7.3.6 above. Added chords may be provided to form sub-diaphragms to transmit the anchorage forces to the main cross ties.",
+              "children": []
+            },
+            {
+              "marker": "(c)",
+              "text": "Wood Diaphragms: Where wood diaphragms are used to laterally support concrete or masonry walls, the anchorage shall conform to Sec 1.7.3.6 above. In seismic Zones 2, 3 and 4 the following requirements shall also apply:",
+              "children": [
+                {
+                  "marker": "(i)",
+                  "text": "Anchorage shall not be accomplished by use of toe nails or nails subject to withdrawal, nor shall wood ledgers or framing be used in cross-grain bending or cross-grain tension.",
+                  "children": [
+                    {
+                      "marker": "(ii)",
+                      "text": "The continuous ties required by paragraph (b) above, shall be in addition to the diaphragm sheathing.",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "marker": "(d)",
+              "text": "Structures having irregularities",
+              "children": [
+                {
+                  "marker": "(i)",
+                  "text": "For structures assigned to Seismic Design Category D and having a plan irregularity of Type I, II, III, or IV in Table 6.1.5 or a vertical structural irregularity of Type IV in Table 6.1.4, the design forces determined from Sec 2.5.7 shall be increased 25 percent for connections of diaphragms to vertical elements and to collectors and for connections of collectors to the vertical elements. Collectors and their connections also shall be designed for these increased forces unless they are designed for the load combinations with over strength factor.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "marker": "(ii)",
+              "text": "For structures having a plan irregularity of Type II in Table 6.1.5, diaphragm chords and collectors shall be designed considering independent movement of any projecting wings of the structure. Each of these diaphragm elements shall be designed for the more severe of the following cases:",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "1.7.3.9": {
+      "id": "1.7.3.9",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Framing below the base\nWhen structural framings continue below the base, the following requirements shall be satisfied.",
+      "lists": [
+        {
+          "items": [
+            {
+              "marker": "(a)",
+              "text": "Framing between the Base and the Foundation: The strength and stiffness of the framing between the base and the foundation shall not be less than that of the superstructure. The special detailing requirements of Sec 8.3 or Sec 10.20, as appropriate for reinforced concrete or steel, shall apply to columns supporting discontinuous lateral force resisting elements and to SMF, IMF, and EBF system elements below the base that are required to transmit forces resulting from lateral loads to foundation.",
+              "children": []
+            },
+            {
+              "marker": "(b)",
+              "text": "Foundations : The foundation shall be capable of transmitting the design base shear and the overturning forces from the superstructure into the supporting soil, but the short term dynamic nature of the loads may be taken into account in establishing the soil properties. Sec 1.8 below prescribes the additional requirements for specific types of foundation construction.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "id": "1.8",
+      "title": "Foundation Design Requirements",
+      "children": [
+        "1.8.1",
+        "1.8.2",
+        "1.8.3",
+        "1.8.4",
+        "1.8.5",
+        "1.8.6"
+      ],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "",
+      "lists": []
+    },
+    "1.8.1": {
+      "id": "1.8.1",
+      "title": "General",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "The design and construction of foundation, foundation components and connection between the foundation and superstructure shall conform to the requirements of this Section and applicable provisions of Chapter 3 and other portions of this Code.",
+      "lists": []
+    },
+    "1.8.2": {
+      "id": "1.8.2",
+      "title": "Soil Capacities",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "The bearing capacity of the soil, or the capacity of the soil-foundation system including footing, pile, pier or caisson and the soil, shall be sufficient to support the structure with all prescribed loads, considering the settlement of the structure. For piles, this refers to pile capacity as determined by pile-soil friction and bearing which may be determined in accordance with the provisions of Chapter 3. For the load combination including earthquake, the soil capacity shall be sufficient to resist loads at acceptable strains considering both the short time loading and the dynamic properties of the soil. The stress and settlement of soil under applied loads shall be determined based on established methods of Soil Mechanics.",
+      "lists": []
+    },
+    "1.8.3": {
+      "id": "1.8.3",
+      "title": "Superstructure-to-Foundation Connection",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "The connection of superstructure elements to the foundation shall be adequate to transmit to the foundation the forces for which the elements are required to be designed.",
+      "lists": []
+    },
+    "1.8.4": {
+      "id": "1.8.4",
+      "title": "Foundation-Soil Interface",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "For regular buildings the base overturning moments for the entire structure or for any one of its lateral force-resisting elements, shall not exceed two-thirds of the dead load resisting moment. The weight of the earth superimposed over footings may be used to calculate the dead load resisting moment.",
+      "lists": []
+    },
+    "1.8.5": {
+      "id": "1.8.5",
+      "title": "Special Requirements for Footings, Piles and Caissons in Seismic Zones 2, 3 and 4",
+      "children": [
+        "1.8.5.1",
+        "1.8.5.2"
+      ],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "",
+      "lists": []
+    },
+    "1.8.5.1": {
+      "id": "1.8.5.1",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Piles and caissons\nPiles and caissons shall be designed for flexure whenever the top of such members is anticipated to be laterally displaced by earthquake motions. The criteria and detailing requirements of Sec 8.3 for concrete and Sec 10.20 for steel shall apply for a length of such members equal to 120 percent of the flexural length.",
+      "lists": []
+    },
+    "1.8.5.2": {
+      "id": "1.8.5.2",
+      "title": "",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Footing interconnection",
+      "lists": [
+        {
+          "items": [
+            {
+              "marker": "(a)",
+              "text": "Footings and pile caps shall be completely interconnected by strut ties or other equivalent means to restrain their lateral movements in any orthogonal direction.",
+              "children": []
+            },
+            {
+              "marker": "(b)",
+              "text": "The strut ties or other equivalent means as specified in (a) above, shall be capable of resisting in tension or compression a force not less than 10% of the larger footing or column load unless it can be demonstrated that equivalent restraint can be provided by frictional and passive soil resistance or by other established means.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "1.8.6": {
+      "id": "1.8.6",
+      "title": "Retaining wall design",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Retaining walls shall be designed to resist the lateral pressure of the retained material, under drained or undrained conditions and including surcharge, in accordance with established engineering practice. For such walls, the minimum factor of safety against base overturning and sliding due to applied earth pressure shall be 1.5.",
+      "lists": []
+    },
+    "1.9": {
+      "id": "1.9",
+      "title": "Design and Construction Review",
+      "children": [
+        "1.9.1",
+        "1.9.2",
+        "1.9.3",
+        "1.9.4",
+        "1.9.5"
+      ],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Every building or structure designed shall have its design documents prepared in accordance with the provisions of Sec 1.9.1. The minimum requirements for design review and construction observation shall be those set forth under Sections 1.9.2 and 1.9.3 respectively.",
+      "lists": []
+    },
+    "1.9.1": {
+      "id": "1.9.1",
+      "title": "Design Document",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "The design documents shall be prepared and signed by the Engineer responsible for the structural design of any building or structure intended for construction. The design documents shall include a design report, material specifications and a set of structural drawings, which shall be prepared in compliance with Sections 1.9.2 and 1.9.3 below for submittal to the concerned authority. For the purpose of this provision, the concerned authority shall be either persons from the government approval agency for the construction, or the owner of the building or the structure, or one of his representatives.",
+      "lists": []
+    },
+    "1.9.2": {
+      "id": "1.9.2",
+      "title": "Design Report",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "The design report shall contain the description of the structural design with basic design information as provided below, so that any other structural design engineer will be able to independently verify the design parameters and the member sizes using these basic information. The design report shall include, but not be limited to, the following:",
+      "lists": [
+        {
+          "items": [
+            {
+              "marker": "(a)",
+              "text": "Mention of this Code including relevant Part, Chapter and Section.",
+              "children": []
+            },
+            {
+              "marker": "(b)",
+              "text": "Name of other referenced standards, and the specific portions, stating chapter, section etc. of these Code and standards including any specialist report used for the structural design.",
+              "children": []
+            },
+            {
+              "marker": "(c)",
+              "text": "Methods used for the calculation of all applied loads along with basic load coefficients and other basic information including any assumption or judgment made under special circumstances.",
+              "children": []
+            },
+            {
+              "marker": "(d)",
+              "text": "A drawing of the complete mathematical model prepared in accordance with Sec 1.2.7.1 to represent the structure and showing on it the values, locations and directions of all applied loads, and location of the lateral load resisting systems such as shear walls, braced frames etc.",
+              "children": []
+            },
+            {
+              "marker": "(e)",
+              "text": "Methods of structural analysis, and results of the analysis such as shear, moment, axial force etc., used for proportioning various structural members and joints including foundation members.",
+              "children": []
+            },
+            {
+              "marker": "(f)",
+              "text": "Methods of structural design including types and strength of the materials of construction used for proportioning the structural members.",
+              "children": []
+            },
+            {
+              "marker": "(g)",
+              "text": "Reference of the soil report or any other documents used in the design of the structure, foundation or components thereof.",
+              "children": []
+            },
+            {
+              "marker": "(h)",
+              "text": "Statement supporting the validity of the above design documents with date and signature of the engineer responsible for the structural design.",
+              "children": []
+            },
+            {
+              "marker": "(i)",
+              "text": "When computer programs are used, to any extent, to aid in the analysis or design of the structure, the following items, in addition to items (a) to (g) above, shall be required to be included in the design report:",
+              "children": [
+                {
+                  "marker": "(i)",
+                  "text": "A sketch of the mathematical model used to represent the structure in the computer generated analysis.",
+                  "children": []
+                },
+                {
+                  "marker": "(ii)",
+                  "text": "The computer output containing the date of processing, program identification, identification of structures being analysed, all input data, units and final results. The computer input data shall be clearly distinguished from those computed in the program.",
+                  "children": []
+                },
+                {
+                  "marker": "(iii)",
+                  "text": "A program description containing the information necessary to verify the input data and interpret the results to determine the nature and extent of the analysis and to check whether the computations comply with the provisions of this Code.",
+                  "children": []
+                },
+                {
+                  "marker": "(iv)",
+                  "text": "The first sheet of each computer run shall be signed by the engineer responsible for the structural design.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "1.9.3": {
+      "id": "1.9.3",
+      "title": "Structural Drawings and Material Specifications",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "The structural drawings shall include, but not be limited to, the following:",
+      "lists": [
+        {
+          "items": [
+            {
+              "marker": "(a)",
+              "text": "The first sheet shall contain :",
+              "children": [
+                {
+                  "marker": "(i)",
+                  "text": "Identification of the project to which the building or the structure, or portion thereof belongs,",
+                  "children": [
+                    {
+                      "marker": "(ii)",
+                      "text": "Reference to the design report specified in Sec 1.9.2 above,",
+                      "children": []
+                    },
+                    {
+                      "marker": "(iii)",
+                      "text": "Date of completion of design, and",
+                      "children": []
+                    },
+                    {
+                      "marker": "(iv)",
+                      "text": "Identification and signature with date of the engineer responsible for the structural design.",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "marker": "(b)",
+              "text": "The second sheet shall contain detail material specifications showing:",
+              "children": [
+                {
+                  "marker": "(i)",
+                  "text": "Specified compressive strength of concrete at stated ages or stages of construction for which each part of structure is designed.",
+                  "children": [
+                    {
+                      "marker": "(ii)",
+                      "text": "Specified strength or grade of reinforcement",
+                      "children": []
+                    },
+                    {
+                      "marker": "(iii)",
+                      "text": "Specified strength of prestressing tendons or wires",
+                      "children": []
+                    },
+                    {
+                      "marker": "(iv)",
+                      "text": "Specified strength or grade of steel",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "marker": "(v)",
+              "text": "Specified strengths for bolts, welds etc.",
+              "children": [
+                {
+                  "marker": "(vi)",
+                  "text": "Specified strength of masonry, timber, bamboo, ferrocement",
+                  "children": []
+                },
+                {
+                  "marker": "(vii)",
+                  "text": "Minimum concrete compressive strength at time of post-tensioning",
+                  "children": []
+                },
+                {
+                  "marker": "(viii)",
+                  "text": "Stressing sequence for post-tensioning tendons",
+                  "children": []
+                },
+                {
+                  "marker": "(ix)",
+                  "text": "General notes indicating clear cover, development lengths of reinforcements, or any other design parameter relevant to the member or connection details provided in drawings to be followed, as applicable, and",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "marker": "(x)",
+              "text": "Identification and signature with date of the Engineer responsible for the structural design.",
+              "children": []
+            },
+            {
+              "marker": "(c)",
+              "text": "Drawing sheets, other than the first two, shall include structural details of the elements of the structure clearly showing all sizes, cross-sections and relative locations, connections, reinforcements, laps, stiffeners, welding types, lengths and locations etc. whichever is applicable for a particular construction. Floor levels, column centres and offset etc., shall be dimensioned. Camber of trusses and beams, if required, shall be shown on drawings. For bolt connected members, connection types such as slip, critical, tension or bearing type, shall be indicated on the drawing.",
+              "children": []
+            },
+            {
+              "marker": "(d)",
+              "text": "Drawings shall be prepared to a scale large enough to show the information clearly and the scales shall be marked on the drawing sheets. If any variation from the design specifications provided in sheet two occurs, the drawing sheet shall be provided additionally with the design specifications including material types and strength, clear cover and development lengths of reinforcements, or any other design parameter relevant to the member or connection details provided in that drawing sheet. Each drawing sheet shall also contain the signature with date of the engineer responsible for the structural design.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "1.9.4": {
+      "id": "1.9.4",
+      "title": "Design Review",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "The design documents specified in Sec 1.9.1 shall be available for review when required by the concerned authority. Review shall be accomplished by an independent structural engineer qualified for this task and appointed by the concerned authority. Design review shall be performed through independent calculations, based on the information provided in the design documents prepared and signed by the original structural design engineer, to verify the design parameters including applied loads, methods of analysis and design, and final design dimensions and other details of the structural elements. The reviewing engineer shall also check the sufficiency and appropriateness of the supplied structural drawings for construction.",
+      "lists": []
+    },
+    "1.9.5": {
+      "id": "1.9.5",
+      "title": "Construction Observation",
+      "children": [],
+      "tables": [],
+      "figures": [],
+      "equations": [],
+      "text": "Construction observation shall be performed by a responsible person who will be a competent professional appointed by the owner of the building or the structure. Construction observation shall include, but not be limited to, the following:",
+      "lists": [
+        {
+          "items": [
+            {
+              "marker": "(a)",
+              "text": "Specification of an appropriate testing and inspection schedule prepared and signed with date by the responsible person;",
+              "children": []
+            },
+            {
+              "marker": "(b)",
+              "text": "Review of testing and inspection reports; and",
+              "children": []
+            },
+            {
+              "marker": "(c)",
+              "text": "Regular site visit to verify the general compliance of the construction work with the structural drawings and specifications provided in Sec 1.9.3 above.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

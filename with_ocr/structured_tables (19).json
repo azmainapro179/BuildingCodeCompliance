@@ -1,0 +1,608 @@
+[
+  {
+    "table_id": "table_0000",
+    "raw_table_id": "table_0000",
+    "page_no": 1,
+    "bbox": {
+      "l": 129.91148376464844,
+      "t": 334.502197265625,
+      "r": 481.87554931640625,
+      "b": 146.2176513671875,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "Part VI Chapter 1 Definitions and General Requirements",
+    "num_rows": 18,
+    "num_cols": 2,
+    "rows": [
+      [
+        "BASE SHEAR",
+        "Total design lateral force or shear at the base of a structure."
+      ],
+      [
+        "BASIC WIND SPEED",
+        "Three-second gust speed at 10 m above the mean ground level in terrain Exposure-B defined in Sec 2.4.6 and associated with an annual probability of occurrence of 0.02."
+      ],
+      [
+        "BEARINGWALL SYSTEM",
+        "A structural system without a complete vertical load carrying space frame."
+      ],
+      [
+        "BRACEDFRAME",
+        "An essentially vertical truss system of the concentric or eccentric type which is provided to resist lateral forces."
+      ],
+      [
+        "BUILDINGFRAME SYSTEM",
+        "An essentially complete space frame which provides support for loads."
+      ],
+      [
+        "CONCENTRIC BRACEDFRAME (CBF)",
+        "A steel braced frame designed in conformance with Sec 10.20.13 or Sec 10.20.14."
+      ],
+      [
+        "COLLECTOR",
+        "A member or element used to transfer lateral forces from a portion of a structure to the vertical elements of the lateral force resisting elements."
+      ],
+      [
+        "DEADLOAD",
+        "The load due to the weight of all permanent structural and nonstructural components of a building or a structure, such as walls, floors, roofs and fixed service equipment."
+      ],
+      [
+        "DIAPHRAGM",
+        "A horizontal or nearly horizontal system acting to transmit lateral forces to the vertical resisting elements. The term \"diaphragm\" includes horizontal bracing systems."
+      ],
+      [
+        "DUALSYSTEM",
+        "A combination of Moment Resisting Frames and Shear Walls or Braced Frames to resist lateral loads designed in accordance with the criteria of Sec 1.3.2.4."
+      ],
+      [
+        "ECCENTRIC BRACEDFRAME (EBF)",
+        "A steel braced frame designed in conformance with Sec 10.20.15."
+      ],
+      [
+        "HORIZONTAL",
+        "A horizontal truss system that serves the same function as BRACING SYSTEM a floor or roof diaphragm."
+      ],
+      [
+        "INTERMEDIATE MOMENTFRAME (IMF)",
+        "A concrete moment resisting frame designed in accordance with Sec 8.3.10."
+      ],
+      [
+        "LIVE LOAD",
+        "The load superimposed by the use and occupancy of a building."
+      ],
+      [
+        "MOMENT RESISTINGFRAME",
+        "A frame in which members and joints are capable of resisting forces primarily by flexure."
+      ],
+      [
+        "ORDINARY MOMENTFRAME (OMF)",
+        "A moment resisting frame not meeting special detailing requirements for ductile behaviour."
+      ],
+      [
+        "PRIMARY FRAMING SYSTEM forces.",
+        "That part of the structural system assigned to resist lateral"
+      ],
+      [
+        "SHEAR WALL",
+        "A wall designed to resist lateral forces parallel to the plane of the wall (sometimes referred to as a vertical diaphragm or a structural wall)."
+      ]
+    ],
+    "page_span": [
+      1,
+      2
+    ]
+  },
+  {
+    "table_id": "table_0002",
+    "raw_table_id": "table_0002",
+    "page_no": 3,
+    "bbox": {
+      "l": 129.86070251464844,
+      "t": 689.4240341186523,
+      "r": 484.198486328125,
+      "b": 149.26654052734375,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "",
+    "num_rows": 13,
+    "num_cols": 2,
+    "rows": [
+      [
+        "SLENDER BUILDINGSAND STRUCTURES",
+        "Buildings and structures having a height exceeding five times the least horizontal dimension, or having a fundamental natural frequency less than 1 Hz. For those cases where the horizontal dimensions vary with height, the least horizontal dimension at mid height shall be used."
+      ],
+      [
+        "SOFTSTOREY",
+        "A soft storey is one in which the lateral stiffness is less than 70 percent of that in the storey above or less than 80 percent of the average stiffness of the three storeys above."
+      ],
+      [
+        "SPACE FRAME",
+        "A three-dimensional structural system without bearing wallscomposedof membersinterconnected soas to function as a complete self-contained unit with or without the aid of horizontal diaphragms or floor bracing systems."
+      ],
+      [
+        "SPECIALMOMENT FRAME (SMF)",
+        "A moment resisting frame specially detailed to provide ductile behaviour complying with the requirements of Chapter 8 or 10 for concrete or steel frames respectively."
+      ],
+      [
+        "SPECIAL STRUCTURAL SYSTEM",
+        "A structural system not listed in Table 6.1.3 and specially designed to carry the lateral loads. (See Sec 1.3.2.5)."
+      ],
+      [
+        "STOREY",
+        "The space between any two floor levels including the roof of a building. Storey-x is the storey below level x."
+      ],
+      [
+        "STOREY SHEAR, Vx",
+        "The summation of design lateral forces above the storey under consideration."
+      ],
+      [
+        "STRENGTH",
+        "The usable capacity of an element or a member to resist the load as prescribed in these provisions."
+      ],
+      [
+        "TERRAIN",
+        "The ground surface roughness condition when considering the size and arrangement of obstructions to the wind."
+      ],
+      [
+        "THREE-SECOND GUST SPEED",
+        "The highest average wind speed over a 3 second duration at a height of 10 m. The three-second gust speed is derived using Durst's model in terms of the mean wind speed and turbulence intensity."
+      ],
+      [
+        "TOWER",
+        "A tall, slim vertical structure."
+      ],
+      [
+        "VERTICALLOAD- CARRYINGFRAME",
+        "A space frame designed to carry all vertical gravity loads."
+      ],
+      [
+        "WEAKSTOREY",
+        "Storey in which the lateral strength is less than 80 percent of that of the storey above."
+      ]
+    ]
+  },
+  {
+    "table_id": "table_0003",
+    "raw_table_id": "table_0003",
+    "page_no": 4,
+    "bbox": {
+      "l": 129.060791015625,
+      "t": 665.3757400512695,
+      "r": 484.0224914550781,
+      "b": 157.935546875,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "",
+    "num_rows": 19,
+    "num_cols": 3,
+    "rows": [
+      [
+        "D",
+        "",
+        "=Dead load on a member including self-weight and weight of components, materials and permanent equipment supported by the member"
+      ],
+      [
+        "E",
+        "=",
+        "Earthquake load"
+      ],
+      [
+        "Fi",
+        "=",
+        "Lateral force applied at level - i of a building"
+      ],
+      [
+        "h",
+        "=",
+        "Height of a building or a structure above ground level in metres"
+      ],
+      [
+        "hi,hnhx=F",
+        "",
+        "Height in metres above ground level to level -i,-n or -x respectively"
+      ],
+      [
+        "",
+        "",
+        "level -i = ith level of a structure above the base; i = 1 designates the first level above thebase"
+      ],
+      [
+        "level-n =1",
+        "",
+        "Upper most level of a structure"
+      ],
+      [
+        "",
+        "",
+        "level - x = xth level of a structure above the base; x = 1 designates the first level above the base."
+      ],
+      [
+        "7",
+        "=",
+        "Live load due to intended use or occupancy"
+      ],
+      [
+        "",
+        "",
+        "Span of a member or component."
+      ],
+      [
+        "Mx",
+        "二",
+        "Overturning moment at level - x"
+      ],
+      [
+        "V",
+        "=",
+        "Total design lateral force or shear at the base"
+      ],
+      [
+        "Vx",
+        "=",
+        "Storey shear at storey level - x"
+      ],
+      [
+        "R",
+        "",
+        "Response modification or reduction coefficient for structural system given in Table 6.2.19 for seismic design."
+      ],
+      [
+        "T",
+        "",
+        "Fundamental period of vibration in seconds"
+      ],
+      [
+        "W",
+        "=",
+        "Load due to wind pressure."
+      ],
+      [
+        "W'",
+        "=",
+        "Weight of an element or component"
+      ],
+      [
+        "",
+        "",
+        "Seismic zone coefficient given in Figure 6.2.24 or Table 6.2.14 or Table 6.2.15"
+      ],
+      [
+        "",
+        "",
+        "Storey lateral drift."
+      ]
+    ]
+  },
+  {
+    "table_id": "6.1.1",
+    "raw_table_id": "table_0004",
+    "page_no": 6,
+    "bbox": {
+      "l": 126.40648651123047,
+      "t": 663.2379455566406,
+      "r": 486.0782470703125,
+      "b": 148.27703857421875,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "Table 6.1.1: Occupancy Category of Buildings and other Structures for Flood, Surge, Wind and Earthquake Loads.",
+    "num_rows": 4,
+    "num_cols": 2,
+    "rows": [
+      [
+        "Nature of Occupancy",
+        "Occupancy Category"
+      ],
+      [
+        "Buildings and other structures that represent a low hazard to human life in the event of failure, including, but not limited to: · Agricultural facilities · Certain temporary facilities · Minor storage facilities",
+        "I"
+      ],
+      [
+        "All buildings and other structures except those listed in Occupancy Categories I, III and IV",
+        "Ⅱ"
+      ],
+      [
+        "Buildings and other structures that represent a substantial hazard to human life in the event of failure, including, but not limited to: · congregate in one area Buildings and other structures with day care facilities with a capacitygreaterthan150 Buildings and other structures with elementary school or for colleges or adult education facilities Healthcare facilities with a capacity of 50 or more resident facilities Jails and detention facilities Buildings and other structures, not included in Occupancy Category IV, with potential to cause a substantial economic impact and/or mass disruption of day-to-day civilian life in the event of failure, including, but not limited to: Power generating stationsa Water treatmentfacilities Sewage treatment facilities Telecommunicationcenters Buildings and other structures not included in Occupancy Category IV (including, but not limited to, facilities that manufacture, process, handle, store,use, or dispose of such substances as hazardous fuels,hazardous chemicals,hazardous waste, or explosives)containing sufficient quantities",
+        "IⅡI"
+      ]
+    ]
+  },
+  {
+    "table_id": "6.1.2",
+    "raw_table_id": "table_0005",
+    "page_no": 8,
+    "bbox": {
+      "l": 125.2857894897461,
+      "t": 529.0299377441406,
+      "r": 486.426025390625,
+      "b": 312.3887939453125,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "Table 6.1.2: Deflection Limitsa, b, c, h (Except earthquake load)",
+    "num_rows": 11,
+    "num_cols": 4,
+    "rows": [
+      [
+        "Construction",
+        "L",
+        "wf",
+        "D9 + Ld"
+      ],
+      [
+        "Roof members:e",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Supporting plaster ceiling",
+        "1/360",
+        "l/360",
+        "l/240"
+      ],
+      [
+        "Supporting non-plaster ceiling",
+        "l/240",
+        "l/240",
+        "1/180"
+      ],
+      [
+        "Not supporting ceiling",
+        "l/180",
+        "l/180",
+        "l/120"
+      ],
+      [
+        "Floor members",
+        "1/360",
+        "-",
+        "1/240"
+      ],
+      [
+        "Exteriorwalls andinteriorpartitions",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Withbrittlefinishes",
+        "",
+        "l/240",
+        ""
+      ],
+      [
+        "Withflexiblefinishes",
+        "",
+        "l/120",
+        ""
+      ],
+      [
+        "Farm buildings",
+        "",
+        "",
+        "l/180"
+      ],
+      [
+        "Greenhouses",
+        "",
+        "",
+        "l/120"
+      ]
+    ]
+  },
+  {
+    "table_id": "6.1.4",
+    "raw_table_id": "table_0006",
+    "page_no": 16,
+    "bbox": {
+      "l": 125.21682739257812,
+      "t": 682.3733291625977,
+      "r": 487.0013122558594,
+      "b": 143.72113037109375,
+      "coord_origin": "BOTTOMLEFT"
+    },
+    "caption": "Table 6.1.4: Vertical Irregularities of Structures",
+    "num_rows": 39,
+    "num_cols": 3,
+    "rows": [
+      [
+        "Vertical Irregularity",
+        "Definition",
+        "Reference Section"
+      ],
+      [
+        "Type",
+        "",
+        ""
+      ],
+      [
+        "I",
+        "a. Stiffness Irregularity (Soft Storey):",
+        ""
+      ],
+      [
+        "",
+        "Soft storey is one in which the lateral stiffness is less than 70",
+        "1.7.3.8,"
+      ],
+      [
+        "",
+        "percent of that in the storey above or less than 80 percent of2",
+        "2.5.5 to"
+      ],
+      [
+        "",
+        "the average stiffness of the three storeys above.",
+        "2.5.14"
+      ],
+      [
+        "",
+        "b. Stiffness Irregularity (Extreme Soft Storey):",
+        "and"
+      ],
+      [
+        "",
+        "Extremesoft storeyirregularityis defined toexistwherethere",
+        "2.5.17"
+      ],
+      [
+        "",
+        "is a story in which the lateral stiffness is less than 60% of that",
+        ""
+      ],
+      [
+        "",
+        "in the story above or less than 70% of the average stiffness of",
+        ""
+      ],
+      [
+        "",
+        "the three stories above.",
+        ""
+      ],
+      [
+        "ⅡI",
+        "Mass Irregularity:",
+        ""
+      ],
+      [
+        "",
+        "Mass irregularity shall be considered to exist where the effective",
+        "2.5.5 to"
+      ],
+      [
+        "",
+        "mass of any storey is more than 150 percent of the effective mass of an adjacent storey. A roof which is lighter than the floor",
+        "2.5.14"
+      ],
+      [
+        "",
+        "below need notbe considered.",
+        ""
+      ],
+      [
+        "III",
+        "Vertical Geometric Irregularity:",
+        ""
+      ],
+      [
+        "",
+        "Vertical geometric irregularity shall be considered to exist",
+        "2.5.5 to"
+      ],
+      [
+        "",
+        "where horizontal dimension of the lateral force-resisting system in any storey is more than 130 percent of that in an adjacent storey, one-storey penthouses need not be considered.",
+        "2.5.14"
+      ],
+      [
+        "IV",
+        "In-Plane Discontinuity in Vertical Lateral Force-Resisting",
+        ""
+      ],
+      [
+        "",
+        "Element:",
+        "1.7.3.8,"
+      ],
+      [
+        "",
+        "An in-plane offset of the lateral load-resisting elements greater",
+        "2.5.5 to"
+      ],
+      [
+        "",
+        "than the length of those elements.",
+        "2.5.14"
+      ],
+      [
+        "Va",
+        "Discontinuity in Capacity (Weak Storey):",
+        ""
+      ],
+      [
+        "",
+        "A weak storey is one in which the storey strength is less than 80",
+        "2.5.5 to"
+      ],
+      [
+        "",
+        "percent of that in the storey above. The storey strength is the",
+        "2.5.14"
+      ],
+      [
+        "",
+        "total strength of all seismic-resisting elements sharing the storey",
+        "and"
+      ],
+      [
+        "",
+        "shear for the direction under consideration.",
+        "2.5.17"
+      ],
+      [
+        "Vb",
+        "Extreme Discontinuity in Capacity (Very Weak Storey):",
+        ""
+      ],
+      [
+        "",
+        "A very weak storey is one in which the storey strength is less",
+        "2.5.5 to"
+      ],
+      [
+        "",
+        "than 65 percent of that in the storey above.",
+        "2.5.14"
+      ],
+      [
+        "",
+        "",
+        "and"
+      ],
+      [
+        "",
+        "",
+        "2.5.17"
+      ],
+      [
+        "Plan Irregularity Type",
+        "Definition",
+        "Reference Section"
+      ],
+      [
+        "I",
+        "Torsional Irregularity (to be considered when diaphragms are not flexible):",
+        "1.7.3.8,"
+      ],
+      [
+        "ⅡI",
+        "structures in which the diaphragms are rigid or semirigid. Reentrant Corners: Plan configurations of a structure and its lateral force-resisting system contain reentrant corners,where both projections of the structure beyond a reentrant corner are greater than 15 percent of the plan dimension of the structure in the given direction.",
+        "1.7.3.8, 2.5.5 to 2.5.14"
+      ],
+      [
+        "IⅢI",
+        "Diaphragm Discontinuity: Diaphragms with abrupt discontinuities or variations in stiffness,including those having cutout or open areas greater than 50 percent of the gross enclosed area of the diaphragm, or changes in effective diaphragm stiffness of more than 50 percent from one storey to the next.",
+        "1.7.3.8, 2.5.5 to 2.5.14"
+      ],
+      [
+        "IV",
+        "Out-of-plane Offsets: Discontinuities in a lateral force path,such as out-of-plane offsets ofthevertical elements.",
+        "1.7.3.8, 2.5.5 to 2.5.14"
+      ],
+      [
+        "V",
+        "Nonparallel Systems: The vertical lateral load-resisting elements are not parallel to or symmetric about the major orthogonal axes of the lateral force-",
+        ""
+      ],
+      [
+        "",
+        "resisting system.",
+        "2.5.5 to 2.5.15"
+      ]
+    ],
+    "page_span": [
+      16,
+      17
+    ]
+  }
+]
